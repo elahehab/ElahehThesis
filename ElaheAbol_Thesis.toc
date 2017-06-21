@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}پژوهش‌های پیشین}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}بازی‌های شناختی}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}استفاده از آموزش استراتژی در بازی‌ها}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}پژوهش‌های انجام شده روی فعالیت ردیابی همزمان چند شیء}{6}{section.2.3}
+\contentsline {chapter}{\numberline {3}روش تحقیق}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}مقدمه}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}انتخاب بازی}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}بازی‌های انتخاب شده}{8}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}طراحی آزمایش برای انتخاب بازی}{9}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}طراحی آزمایش اصلی}{10}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}بخش اول - استخراج استراتژی}{10}{subsection.3.3.1}
+\contentsline {subsubsection}{ساختار آزمون}{10}{section*.5}
+\contentsline {subsubsection}{ثبت داده}{11}{section*.7}
+\contentsline {subsubsection}{شرکت‌کننده‌ها}{11}{section*.8}
+\contentsline {subsubsection}{نحوه محاسبه امتیاز}{12}{section*.9}
+\contentsline {chapter}{\numberline {4}ارزیابی}{13}{chapter.4}
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{15}{chapter.5}
+\contentsline {chapter}{مراجع}{17}{chapter*.10}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{18}{chapter*.10}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{20}{chapter*.10}
