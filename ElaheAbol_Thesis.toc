@@ -14,8 +14,10 @@
 \contentsline {subsubsection}{ثبت داده}{11}{section*.7}
 \contentsline {subsubsection}{شرکت‌کننده‌ها}{11}{section*.8}
 \contentsline {subsubsection}{نحوه محاسبه امتیاز}{12}{section*.9}
-\contentsline {chapter}{\numberline {4}ارزیابی}{13}{chapter.4}
+\contentsline {chapter}{\numberline {4}نتایج}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}نتایج بخش اول}{13}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}استراتژی‌های استخراج شده}{13}{subsection.4.1.1}
 \contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{15}{chapter.5}
-\contentsline {chapter}{مراجع}{17}{chapter*.10}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{18}{chapter*.10}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{20}{chapter*.10}
+\contentsline {chapter}{مراجع}{17}{chapter*.11}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{18}{chapter*.11}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{20}{chapter*.11}

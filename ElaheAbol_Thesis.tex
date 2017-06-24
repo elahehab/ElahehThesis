@@ -35,9 +35,6 @@
 \usepackage{afterpage}
 
 
-%\usepackage[only, llbracket, rrbracket]{stmaryrd}
-
-
 \usepackage{cite}
 %\usepackage{cleveref}
 \usepackage[rgb,x11names]{xcolor}% Optimize for screen reading.
@@ -51,13 +48,26 @@
 \usepackage{perpage}
 \MakePerPage{footnote}
 
-%\usepackage{chngcntr}
-%\counterwithin*{footnote}{page}
+\usepackage{hhline}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}    % loads also »colortbl«
+
+\definecolor{stBlue}{RGB}{0,176,240}
+\definecolor{stGreen}{RGB}{0,204,0}
+\definecolor{stRed}{RGB}{255,0,0}
+\definecolor{stYellow}{RGB}{255,255,0}
+\definecolor{stOrange}{RGB}{255,192,0}
+\definecolor{stPink}{RGB}{255,153,153}
+\definecolor{stGray}{RGB}{191,191,191}
+\definecolor{stPurple}{RGB}{112,48,160}
+\definecolor{stBrown}{RGB}{204,153,0}
+\definecolor{stLightGreen}{RGB}{153,255,153}
+\definecolor{stLightPurple}{RGB}{204,153,255}
+
 
 
 \usepackage[extrafootnotefeatures]{xepersian}
 \LTRcolumnfootnotes
-%\twocolumnfootnotes
 
 
 \numberwithin{equation}{chapter}
@@ -68,25 +78,14 @@
 
 \settextfont[Scale=1.12]{XB Niloofar}
 \setlatintextfont[Scale=1.05]{Times New Roman}
-%\setdigitfont[Scale=1.2]{XB Niloofar}
+
 \DefaultMathsDigits
 \DeclareMathSizes{10}{12}{8}{6}   % For size 10 text
 
-%\defpersianfont\shafigh[Scale=1]{Times New Roman}
+
 \defpersianfont\nastaliq[Scale=1]{IranNastaliq}
 \defpersianfont\nastaliqbig[Scale=1.3]{IranNastaliq}
 
-%\crefname{equation}{رابطه‌ی}{رابطه‌های}
-%\crefname{chapter}{فصل}{فصل‌های}
-%\crefname{section}{بخش}{بخش‌های}
-%\crefname{definition}{تعریف}{تعریف‌های}
-%\crefname{theorem}{قضیه‌ی}{قضیه‌های}
-%\crefname{figure}{شکل}{شکل‌های}
-%\crefname{algorithm}{الگوریتم}{الگوریتم‌های}
-%\crefname{enumi}{مرحله‌ی}{مرحله‌های}
-%\crefname{align}{رابطه‌ی}{رابطه‌های}
-%\crefname{table}{جدول}{جدول‌های}
-%\newcommand{\crefpairconjunction}{ و }
 
 \linespread{2.04}
 \setlength\parskip{0.25cm}
@@ -122,13 +121,7 @@
   \setlength{\parsep}{0pt}}
 {\end{description}}
 
-%\newtheorem{definition}{تعریف}[chapter]
-%\newtheorem*{definition*}{تعریف}
-%\newtheorem{theorem}{قضیه}[chapter]
-%\newtheorem{lemma}{لم}[chapter]
 
-
-%style=listgroup,nonumberlist
 \newglossarystyle{mylistFa}{
 \glossarystyle{list}
 \renewenvironment{theglossary}{}{}
@@ -522,12 +515,74 @@
 \end{equation}
 
 
-\chapter{ارزیابی}
+\chapter{نتایج}
 \label{chapter:experiments}
 \thispagestyle{plain}
-در این فصل به ارزیابی روش‌های ارائه شده در شناسایی هرز وب می‌پردازیم. بدین منظور، ابتدا به معرفی مجموعه‌های داده‌ای مورد استفاده در این پژوهش پرداخته و سپس، معیارهایی را که برای ارزیابی هر یک از روش‌های معرفی شده در این پژوهش استفاده شده‌اند معرفی می‌نماییم. در انتها نیز نتایج آزمایش‌هایی را که در راستای انجام این پژوهش صورت گرفته است ارائه داده و با سایر روش‌های پیشین مربوطه مقایسه می‌نماییم.
+\section{نتایج بخش اول}
+در بخش اول دو هدف اصلی را دنبال می‌کردیم. هدف اول جمع‌آوری مجموعه‌ای از استراتژی‌های مورد استفاده توسط افراد بود و هدف دوم طبقه‌بندی این استراتژی‌ها بر اساس میزان موثر بودن آنها بوده است. 
+\subsection{استراتژی‌های استخراج شده}
+در جدول \ref{StrategyList} لیست استراتژی‌های استخراج شده نمایش داده شده است. به منظور استخراج استراتژی‌ها از پرسشنامه‌هایی که توسط شرکت‌کننده‌ها تکمیل شده بود ابتدا تمامی پرسشنامه‌ها خوانده شدند و استراتژي‌هایی که مشابه هم بودند استخراج شدند. سپس مجددا تمامی پرسشنامه‌ها بررسی شدند و اطمینان حاصل شد که تمامی استراتژی‌هایی که نوشته شده به حداقل یک استراتژی استخراج شده مرتبط می‌شود. 
+\begin{table}[]
+	
+	\centering
+	\caption{استراتژی‌های استخراج شده}
+	\label{StrategyList}
+%	\begin{tabular*}{\textwidth}{|c @{\extracolsep{\fill}}|c|}
+	\begin{tabularx}{\textwidth}{|l|X|}
+		\hhline{|-|-|}
+		\rowcolor{gray!50}
+		\textbf{شماره استراتژي} & \textbf{توضیح استراتژی} \\ \hhline{|-|-|}
+		\rowcolor{stBlue!100}
+		1 & دنبال کردن ابر با چشم \\ \hhline{|-|-|}
+		\rowcolor{stBlue!100}
+		
+		2 & دنبال کردن ابر با استفاده از ماوس \\ \hhline{|-|-|}
+		\rowcolor{stBlue!100}
+		3 & دنبال کردن ابر با استفاده از انگشتان دست \\ \hhline{|-|-|}
+		\rowcolor{stGreen!100}
+		4 & نگاه کردن به مرکز صفحه یا مرکز ابرهای باران‌زا یا نگاه کلی به صفحه (نگاه کردن کل ابرها به صورت همزمان) \\ \hhline{|-|-|}
+		\rowcolor{stGreen!100}
+		5 & نگاه کردن به یک ابر باران‌زا در حالی که سایر ابرها در دامنه دید هستند \\ \hhline{|-|-|}
+		\rowcolor{stGreen!100}
+		6 & سوئیچ کردن نگاه بین مرکز دو دسته ابر باران‌زا \\ \hhline{|-|-|}
+		\rowcolor{stRed!100}
+		7 & سوئیچ کردن نگاه بین ابرها \\ \hhline{|-|-|}
+		\rowcolor{stYellow!100}
+		8 & تقسیم کردن ابرها به چند گروه \\ \hhline{|-|-|}
+		\rowcolor{stOrange!100}
+		9 & توجه بیشتر به ابرهای نواحی شلوغ \\ \hhline{|-|-|}
+		\rowcolor{stOrange!100}
+		10 & توجه بیشتر به ابرهایی که سرعت و دامنه حرکت بیشتری دارند \\ \hhline{|-|-|}
+		\rowcolor{stOrange!100}
+		11 & توجه بیشتر به نواحی که ابرهای باران‌زای بیشتری دارند \\ \hhline{|-|-|}
+		\rowcolor{stOrange!100}
+		12 & توجه بیشتر به ابرهایی که در یک جهت حرکت می‌کردند \\ \hhline{|-|-|}
+		\rowcolor{stPink!100}
+		13 & دنبال کردن یک یا چند ابر با گوشه چشم (دامنه بینایی) \\ \hhline{|-|-|}
+		\rowcolor{stGray!100}
+		14 & صرف نظر کردن از تعدادی از ابرها \\ \hhline{|-|-|}
+		\rowcolor{stPurple!100}
+		15 & تصور کردن به صورت خط یا شکل هندسی \\ \hhline{|-|-|}
+		\rowcolor{stBrown!100}
+		16 & پیش‌بینی حرکت برخی از ابرها \\ \hhline{|-|-|}
+		\rowcolor{stLightGreen!100}
+		17 & افزایش توجه هنگام کند شدن حرکت ابرها \\ \hhline{|-|-|}
+		\rowcolor{stLightGreen!100}
+		18 & ثبت یک تصویر ذهنی از مکان ابرها هنگامی که رنگشان تغییر می‌کند \\ \hhline{|-|-|}
+		\rowcolor{stLightPurple!100}
+		19 & دنبال کردن برخی از ابرها با یک چشم و برخی دیگر با چشم دیگر \\ \hhline{|-|-|}
+		\rowcolor{stLightPurple!100}
+		20 & محو کردن ابرهای غیر بارانی در ذهن \\ \hhline{|-|-|}
+		\rowcolor{stLightPurple!100}
+		21 & کم کردن دقت روی جزئیات ابرها \\ \hhline{|-|-|}
+		\rowcolor{stLightPurple!100}
+		22 & تنگ‌تر کردن چشم \\ \hhline{|-|-|}
+		
+	\end{tabularx}
+	
+\end{table}
 
-
+خانه‌های جدول \ref{StrategyList} که همرنگ هستند نشان‌دهنده‌ی استراتژی‌هایی هستند که در یک دسته قرار می‌گیرند. این استراتژی‌ها مشابه یکدیگر هستند. در جدول ... ویژگی مشترک هر دسته نمایش داده شده است.
 
 \chapter{جمع‌بندی و نکته‌های پایانی}
 \label{chapter:conclusion}
