@@ -18,6 +18,8 @@
 \contentsline {subsection}{\numberline {3.4.1}راهبرد‌های استخراج شده}{18}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}امتیازدهی به راهبرد‌ها}{20}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}راهبردهای منتخب برای آزمایش دوم}{22}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}همبستگی با ویژگی های فردی}{24}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}مشکلات موجود در آزمایش اول}{24}{subsection.3.4.5}
 \contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال استراتژی}{25}{chapter.4}
 \contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{27}{chapter.5}
 \contentsline {chapter}{مراجع}{30}{chapter*.12}
