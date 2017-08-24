@@ -40,3 +40,5 @@
 (indexentry :tkey (("اختلال کمبود توجه" "\\glossentry{fa-اختلال کمبود توجه}") ) :locref "{}{13}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("فعالیت‌ها" "\\glossentry{fa-فعالیت‌ها}") ) :locref "{}{14}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("شرکت‌کننده" "\\glossentry{fa-شرکت‌کننده}") ) :locref "{}{20}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("آزمون دو مرحله‌ای دا" "\\glossentry{fa-آزمون دو مرحله‌ای دا}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("قدم زدن تصادفی" "\\glossentry{fa-قدم زدن تصادفی}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 

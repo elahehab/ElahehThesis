@@ -3,13 +3,14 @@
 \contentsline {section}{\numberline {2.1}بازی‌ها و تمرین‌های شناختی}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}استفاده از آموزش راهبرد در بازی‌ها}{8}{section.2.2}
 \contentsline {section}{\numberline {2.3}پژوهش‌های انجام شده در حوزه‌ی فعالیت ردیابی همزمان چند شیء}{10}{section.2.3}
-\contentsline {section}{\numberline {2.4}نتیجه گیری}{11}{section.2.4}
+\contentsline {section}{\numberline {2.4}مدل تصمیم‌گیری مبتنی بر مدل و غیرمبتنی بر مدل}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}نتیجه گیری}{11}{section.2.5}
 \contentsline {chapter}{\numberline {3}آزمایش اول - استخراج راهبرد}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}مقدمه}{13}{section.3.1}
 \contentsline {section}{\numberline {3.2}انتخاب بازی}{14}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}بازی‌های انتخاب شده}{14}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}طراحی آزمایش برای انتخاب بازی}{15}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}طراحی آزمایش اصلی}{16}{section.3.3}
+\contentsline {section}{\numberline {3.3}طراحی آزمایش اول}{16}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}ساختار آزمایش}{16}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}ثبت داده}{17}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}شرکت‌کننده‌ها}{17}{subsection.3.3.3}
@@ -20,8 +21,16 @@
 \contentsline {subsection}{\numberline {3.4.3}راهبردهای منتخب برای آزمایش دوم}{22}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}همبستگی با ویژگی های فردی}{24}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}مشکلات موجود در آزمایش اول}{24}{subsection.3.4.5}
-\contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال استراتژی}{25}{chapter.4}
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{27}{chapter.5}
-\contentsline {chapter}{مراجع}{30}{chapter*.12}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{31}{chapter*.12}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{33}{chapter*.12}
+\contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال راهبرد}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}مقدمه}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}طراحی آزمایش دوم}{25}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}ساختار آزمایش}{25}{subsection.4.2.1}
+\contentsline {subsubsection}{بخش اول}{26}{section*.12}
+\contentsline {subsubsection}{بخش دوم}{26}{section*.13}
+\contentsline {subsubsection}{بخش سوم}{26}{section*.14}
+\contentsline {subsection}{\numberline {4.2.2}شرکت‌کننده‌ها}{26}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}نتایج بخش دوم}{26}{section.4.3}
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{29}{chapter.5}
+\contentsline {chapter}{مراجع}{32}{chapter*.16}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{33}{chapter*.16}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{35}{chapter*.16}
