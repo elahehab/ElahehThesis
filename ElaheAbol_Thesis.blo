@@ -42,3 +42,7 @@
 (indexentry :tkey (("شرکت‌کننده" "\\glossentry{fa-شرکت‌کننده}") ) :locref "{}{20}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("آزمون دو مرحله‌ای دا" "\\glossentry{fa-آزمون دو مرحله‌ای دا}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("قدم زدن تصادفی" "\\glossentry{fa-قدم زدن تصادفی}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("بدنه‌ی محدب" "\\glossentry{fa-بدنه‌ی محدب}") ) :locref "{}{28}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("دمای معکوس" "\\glossentry{fa-دمای معکوس}") ) :locref "{}{30}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("نمودار احتمال نرمال بودن" "\\glossentry{fa-نمودار احتمال نرمال بودن}") ) :locref "{}{33}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("داده‌های پرت" "\\glossentry{fa-داده‌های پرت}") ) :locref "{}{34}" :attr "pageglsnumberformat" ) 

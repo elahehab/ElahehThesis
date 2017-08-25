@@ -24,13 +24,34 @@
 \contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال راهبرد}{25}{chapter.4}
 \contentsline {section}{\numberline {4.1}مقدمه}{25}{section.4.1}
 \contentsline {section}{\numberline {4.2}طراحی آزمایش دوم}{25}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}ساختار آزمایش}{25}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}ساختار آزمایش اصلی}{25}{subsection.4.2.1}
 \contentsline {subsubsection}{بخش اول}{26}{section*.12}
-\contentsline {subsubsection}{بخش دوم}{26}{section*.13}
-\contentsline {subsubsection}{بخش سوم}{26}{section*.14}
-\contentsline {subsection}{\numberline {4.2.2}شرکت‌کننده‌ها}{26}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}نتایج بخش دوم}{26}{section.4.3}
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{29}{chapter.5}
-\contentsline {chapter}{مراجع}{32}{chapter*.16}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{33}{chapter*.16}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{35}{chapter*.16}
+\contentsline {subsubsection}{بخش دوم}{26}{section*.14}
+\contentsline {subsubsection}{بخش سوم}{28}{section*.16}
+\contentsline {subsubsection}{پس از اتمام}{29}{section*.17}
+\contentsline {subsection}{\numberline {4.2.2}گروه کنترلی اول}{29}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}گروه کنترلی دوم}{29}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}شرکت‌کننده‌ها}{30}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}نتایج بخش دوم}{30}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}مولفه‌های استخراج شده از داده‌ها}{30}{subsection.4.3.1}
+\contentsline {subsubsection}{مولفه‌های مربوط به مدل محور یا مدل آزاد بودن}{30}{section*.18}
+\contentsline {subsubsection}{مولفه‌ی مربوط به میزان پیشرفت بازیکن}{31}{section*.19}
+\contentsline {subsubsection}{مولفه مربوط به میزان استفاده از راهبرد}{32}{section*.20}
+\contentsline {subsubsection}{مولفه‌ی مربوط به زمان پاسخگویی}{32}{section*.21}
+\contentsline {subsection}{\numberline {4.3.2}حذف داده‌های پرت}{33}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}تحلیل همبستگی}{33}{subsection.4.3.3}
+\contentsline {subsubsection}{تحلیل همبستگی بین پیشرفت بازیکن و استفاده از راهبرد}{33}{section*.22}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه $\beta $}{33}{section*.23}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه w }{33}{section*.24}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و زمان پاسخگویی}{33}{section*.25}
+\contentsline {subsection}{\numberline {4.3.4}تحلیل آماری اختلاف میانگین‌ها}{33}{subsection.4.3.4}
+\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی و گروه کنترل ۱}{33}{section*.26}
+\contentsline {subsubsection}{مقایسه پیشرفت گروه اصلی و گروه کنترل ۲}{35}{section*.30}
+\contentsline {subsubsection}{مقایسه پیشرفت گروه کنترل ۱ و گروه کنترل ۲}{35}{section*.31}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۱}{35}{section*.32}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۲}{35}{section*.33}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه کنترل ۱ و گروه کنترل ۲}{35}{section*.34}
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{37}{chapter.5}
+\contentsline {chapter}{مراجع}{40}{chapter*.35}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{41}{chapter*.35}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{43}{chapter*.35}
