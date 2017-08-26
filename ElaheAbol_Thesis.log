@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  25 AUG 2017 22:57
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  26 AUG 2017 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1791,17 +1791,32 @@ Underfull \vbox (badness 1946) has occurred while \output is active []
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [8]
-[9] [10] [11] [12
+[9] [10]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.49753pt on input line 484.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 6.71997pt on input line 484.
 
-]
+Overfull \hbox (63.168pt too wide) detected at line 490
+[][] []
+ []
+
+[11]
+
+LaTeX Warning: Citation `daw2011ModelBased' on page 12 undefined on input line 
+494.
+
+[12]
 فصل 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--497
+Underfull \hbox (badness 10000) in paragraph at lines 511--515
 [][]
  []
 
-[13] [14]
-Overfull \hbox (0.31113pt too wide) in paragraph at lines 512--514
+[13
+
+] [14]
+Overfull \hbox (0.31113pt too wide) in paragraph at lines 530--532
 []\TU/XBNiloofar(0)/m/n/10.95 برای انتخاب بازی یک آزمایش ساده طراحی شد. آزمایش 
 به این صورت بود که آزمون‌دهنده ابتدا دستورالعمل[]
  []
@@ -1812,22 +1827,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 521.
+               Default added (so using `tbp') on input line 539.
 
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.49753pt on input line 540.
 [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 563.
+               Default added (so using `tbp') on input line 581.
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 8.95996pt on input line 572.
+(Font)              scaled to size 8.95996pt on input line 590.
 
-Overfull \hbox (18.50032pt too wide) in paragraph at lines 570--587
+Overfull \hbox (18.50032pt too wide) in paragraph at lines 588--605
  [][][] 
  []
 
@@ -1837,21 +1850,18 @@ Underfull \vbox (badness 2653) has occurred while \output is active []
  [18]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 593.
+               Default added (so using `tbp') on input line 611.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 612.
+               Default added (so using `tbp') on input line 630.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
 [20]
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 6.71997pt on input line 646.
-
-Overfull \hbox (6.62984pt too wide) detected at line 649
+Overfull \hbox (6.62984pt too wide) detected at line 667
 [][]\OML/cmm/m/it/10.95 useStrategy\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 pers
 on \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 i; strategy \OT1/cmr/m/n/10.95 = \O
 ML/cmm/m/it/10.95 k; part \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 j\OT1/cmr/m/
@@ -1859,7 +1869,7 @@ n/10.95 ) = []
  []
 
 
-Overfull \hbox (24.08794pt too wide) detected at line 659
+Overfull \hbox (24.08794pt too wide) detected at line 677
 [][]\OML/cmm/m/it/10.95 score\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 strategy \
 OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 k; part \OT1/cmr/m/n/10.95 = \OML/cmm/m
 /it/10.95 j\OT1/cmr/m/n/10.95 ) = [] [] \OML/cmm/m/it/10.95 score\OT1/cmr/m/n/1
@@ -1876,11 +1886,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [21]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 677.
+               Default added (so using `tbp') on input line 695.
 
 File: Figures/notMainStrAvg.png Graphic file (type QTm)
 <use  "Figures/notMainStrAvg.png" >
-Overfull \hbox (20.57768pt too wide) in paragraph at lines 698--701
+Overfull \hbox (20.57768pt too wide) in paragraph at lines 716--719
  [][][][][][] 
  []
 
@@ -1888,7 +1898,7 @@ Overfull \hbox (20.57768pt too wide) in paragraph at lines 698--701
 فصل 4.
 
 LaTeX Warning: Citation `daw2011ModelBased' on page 25 undefined on input line 
-729.
+747.
 
 File: Figures/plainJungleProb.png Graphic file (type QTm)
 <use  "Figures/plainJungleProb.png" >
@@ -1900,7 +1910,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [26]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 744.
+               Default added (so using `tbp') on input line 762.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1918,22 +1928,34 @@ Underfull \vbox (badness 8075) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
+
+LaTeX Warning: Reference `eq:MAD' on page 32 undefined on input line 848.
+
 [32] [33]
 File: Figures/impv1impv2NormalPlot.png Graphic file (type QTm)
  <use  "Figures/impv1impv2NormalPlot.png" >
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 854.
+               Default added (so using `tbp') on input line 879.
+
+[34]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 898.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 873.
+               Default added (so using `tbp') on input line 921.
 
-[34] [35] [36
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+[36]
 فصل 5.
-[37] [38] (./ElaheAbol_Thesis.bbl
+[37
+
+] [38] (./ElaheAbol_Thesis.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 10.50003pt on input line 7.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
@@ -1945,62 +1967,65 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 926.
+rd compatibility on input line 974.
 
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 926.
+rd compatibility on input line 974.
 
 No file ElaheAbol_Thesis.gls.
 [41] [42]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 935.
+rd compatibility on input line 983.
 
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 935.
+rd compatibility on input line 983.
 
 No file ElaheAbol_Thesis.bls.
 [43] [44]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 10.50003pt on input line 951.
+(Font)              scaled to size 10.50003pt on input line 999.
  [45] [46]
 File: Figures/eng.png Graphic file (type QTm)
  <use  "Figures/eng.png" >
 File: Figures/ut.png Graphic file (type QTm)
  <use  "Figures/ut.png" >
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 15.12003pt on input line 987.
+(Font)              scaled to size 15.12003pt on input line 1035.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 15.12003pt on input line 987.
+(Font)              scaled to size 15.12003pt on input line 1035.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.60004pt on input line 990.
+(Font)              scaled to size 12.60004pt on input line 1038.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 12.60004pt on input line 997.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1021.
+(Font)              scaled to size 12.60004pt on input line 1045.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1069.
  [47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1021.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1069.
 
 (./ElaheAbol_Thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1021.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1021.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1069.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1069.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1021.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1069.
  ) 
 Here is how much of TeX's memory you used:
- 30590 strings out of 493005
- 578556 string characters out of 6137956
- 751299 words of memory out of 5000000
- 33980 multiletter control sequences out of 15000+600000
+ 30776 strings out of 493005
+ 583855 string characters out of 6137956
+ 753519 words of memory out of 5000000
+ 34166 multiletter control sequences out of 15000+600000
  17690 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,20n,77p,10415b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,21n,77p,10415b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on ElaheAbol_Thesis.pdf (67 pages).

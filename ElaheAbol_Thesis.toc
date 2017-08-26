@@ -3,8 +3,8 @@
 \contentsline {section}{\numberline {2.1}بازی‌ها و تمرین‌های شناختی}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}استفاده از آموزش راهبرد در بازی‌ها}{8}{section.2.2}
 \contentsline {section}{\numberline {2.3}پژوهش‌های انجام شده در حوزه‌ی فعالیت ردیابی همزمان چند شیء}{10}{section.2.3}
-\contentsline {section}{\numberline {2.4}مدل تصمیم‌گیری مبتنی بر مدل و غیرمبتنی بر مدل}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}نتیجه گیری}{11}{section.2.5}
+\contentsline {section}{\numberline {2.4}یادگیری مبتنی بر مدل و غیرمبتنی بر مدل}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}نتیجه گیری}{12}{section.2.5}
 \contentsline {chapter}{\numberline {3}آزمایش اول - استخراج راهبرد}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}مقدمه}{13}{section.3.1}
 \contentsline {section}{\numberline {3.2}انتخاب بازی}{14}{section.3.2}
@@ -45,13 +45,14 @@
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه w }{33}{section*.24}
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و زمان پاسخگویی}{33}{section*.25}
 \contentsline {subsection}{\numberline {4.3.4}تحلیل آماری اختلاف میانگین‌ها}{33}{subsection.4.3.4}
-\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی و گروه کنترل ۱}{33}{section*.26}
-\contentsline {subsubsection}{مقایسه پیشرفت گروه اصلی و گروه کنترل ۲}{35}{section*.30}
-\contentsline {subsubsection}{مقایسه پیشرفت گروه کنترل ۱ و گروه کنترل ۲}{35}{section*.31}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۱}{35}{section*.32}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۲}{35}{section*.33}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه کنترل ۱ و گروه کنترل ۲}{35}{section*.34}
+\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی و گروه کنترل ۱}{34}{section*.26}
+\contentsline {subsubsection}{مقایسه پیشرفت گروه اصلی و گروه کنترل ۲}{36}{section*.30}
+\contentsline {subsubsection}{مقایسه پیشرفت گروه کنترل ۱ و گروه کنترل ۲}{36}{section*.31}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول}{36}{section*.32}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۱}{36}{section*.34}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۲}{36}{section*.35}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه کنترل ۱ و گروه کنترل ۲}{36}{section*.36}
 \contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{37}{chapter.5}
-\contentsline {chapter}{مراجع}{40}{chapter*.35}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{41}{chapter*.35}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{43}{chapter*.35}
+\contentsline {chapter}{مراجع}{40}{chapter*.37}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{41}{chapter*.37}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{43}{chapter*.37}
