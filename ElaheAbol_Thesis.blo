@@ -49,5 +49,6 @@
 (indexentry :tkey (("دمای معکوس" "\\glossentry{fa-دمای معکوس}") ) :locref "{}{30}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("پیرسون" "\\glossentry{fa-پیرسون}") ) :locref "{}{33}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("نمودار نقطه‌ای" "\\glossentry{fa-نمودار نقطه‌ای}") ) :locref "{}{33}" :attr "pageglsnumberformat" ) 
-(indexentry :tkey (("نمودار احتمال نرمال بودن" "\\glossentry{fa-نمودار احتمال نرمال بودن}") ) :locref "{}{37}" :attr "pageglsnumberformat" ) 
-(indexentry :tkey (("داده‌های پرت" "\\glossentry{fa-داده‌های پرت}") ) :locref "{}{38}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("ویلکاکسون" "\\glossentry{fa-ویلکاکسون}") ) :locref "{}{37}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("هیستوگرام" "\\glossentry{fa-هیستوگرام}") ) :locref "{}{40}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("نمودار احتمال نرمال بودن" "\\glossentry{fa-نمودار احتمال نرمال بودن}") ) :locref "{}{40}" :attr "pageglsnumberformat" ) 

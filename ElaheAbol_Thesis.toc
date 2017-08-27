@@ -44,14 +44,11 @@
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه $\beta $}{35}{section*.27}
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و تغییرات میانگین زمان پاسخگویی}{36}{section*.29}
 \contentsline {subsection}{\numberline {4.3.3}تحلیل آماری اختلاف میانگین‌ها}{37}{subsection.4.3.3}
-\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی و گروه کنترل ۱}{37}{section*.31}
-\contentsline {subsubsection}{مقایسه پیشرفت گروه اصلی و گروه کنترل ۲}{39}{section*.35}
-\contentsline {subsubsection}{مقایسه پیشرفت گروه کنترل ۱ و گروه کنترل ۲}{39}{section*.36}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول}{39}{section*.37}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۱}{40}{section*.39}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه اصلی و گروه کنترل ۲}{40}{section*.40}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی گروه کنترل ۱ و گروه کنترل ۲}{40}{section*.41}
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{41}{chapter.5}
-\contentsline {chapter}{مراجع}{44}{chapter*.42}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{45}{chapter*.42}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{47}{chapter*.42}
+\contentsline {subsubsection}{مقایسه عملکرد افراد در دور دوم بازی نسبت به دور اول در تمام گروه‌ها}{38}{section*.31}
+\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲}{40}{section*.37}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول بازی در تمام گروه‌ها}{42}{section*.41}
+\contentsline {subsubsection}{مقایسه تغییرات زمان پاسخگویی گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲ نسبت به یکدیگر}{44}{section*.46}
+\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{47}{chapter.5}
+\contentsline {chapter}{مراجع}{50}{chapter*.49}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{51}{chapter*.49}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{53}{chapter*.49}
