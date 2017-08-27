@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  26 AUG 2017 13:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  27 AUG 2017 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1928,88 +1928,121 @@ Underfull \vbox (badness 8075) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
+[32]
+File: Figures/impv1strUseScatter.png Graphic file (type QTm)
+ <use  "Figures/impv1strUseScatter.png" >
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
-LaTeX Warning: Reference `eq:MAD' on page 32 undefined on input line 848.
+ [33]
+File: Figures/stUsewScatter.png Graphic file (type QTm)
 
-[32] [33]
-File: Figures/impv1impv2NormalPlot.png Graphic file (type QTm)
- <use  "Figures/impv1impv2NormalPlot.png" >
+<use  "Figures/stUsewScatter.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 879.
+ [34]
+File: Figures/stUsewScatterNoZero.png Graphic file (type QTm)
 
-[34]
+<use  "Figures/stUsewScatterNoZero.png" >
+File: Figures/betaStUseScatter.png Graphic file (type QTm)
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 898.
+<use  "Figures/betaStUseScatter.png" >
 
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 921.
+LaTeX Warning: Reference `fig:stUseDtScatter' on page 35 undefined on input lin
+e 900.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-[36]
-فصل 5.
-[37
+File: Figures/stUseDtScatter.png Graphic file (type QTm)
 
-] [38] (./ElaheAbol_Thesis.bbl
+<use  "Figures/stUseDtScatter.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+[37]
+File: Figures/impv1impv2NormalPlot.png Graphic file (type QTm)
+ <use  "Figures/impv1impv2NormalPlot.png" >
+
+LaTeX Warning: Reference `removeOutlierSection' on page 38 undefined on input l
+ine 927.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 929.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 948.
+
+[38]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 971.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+[40]
+فصل 5.
+[41
+
+] [42] (./ElaheAbol_Thesis.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 10.50003pt on input line 7.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 10.50003pt on input line 10.
- [39
+ [43
 
 
-]) [40]
-
-Package glossaries Warning: Deprecated command \glossarystyle.
- I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 974.
-
+]) [44]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 974.
+rd compatibility on input line 1024.
+
+
+Package glossaries Warning: Deprecated command \glossarystyle.
+ I recommend you switch to \setglossarystyle unless you want to maintain backwa
+rd compatibility on input line 1024.
 
 No file ElaheAbol_Thesis.gls.
-[41] [42]
+[45] [46]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 983.
+rd compatibility on input line 1033.
 
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 983.
+rd compatibility on input line 1033.
 
 No file ElaheAbol_Thesis.bls.
-[43] [44]
+[47] [48]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 10.50003pt on input line 999.
- [45] [46]
+(Font)              scaled to size 10.50003pt on input line 1049.
+ [49] [50]
 File: Figures/eng.png Graphic file (type QTm)
  <use  "Figures/eng.png" >
 File: Figures/ut.png Graphic file (type QTm)
  <use  "Figures/ut.png" >
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 15.12003pt on input line 1035.
+(Font)              scaled to size 15.12003pt on input line 1085.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 15.12003pt on input line 1035.
+(Font)              scaled to size 15.12003pt on input line 1085.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.60004pt on input line 1038.
+(Font)              scaled to size 12.60004pt on input line 1088.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 12.60004pt on input line 1045.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1069.
- [47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1069.
+(Font)              scaled to size 12.60004pt on input line 1095.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1119.
+ [51]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1119.
 
 (./ElaheAbol_Thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1069.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1069.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1119.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1119.
 
 
 LaTeX Warning: There were undefined references.
@@ -2017,15 +2050,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1069.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1119.
  ) 
 Here is how much of TeX's memory you used:
- 30776 strings out of 493005
- 583855 string characters out of 6137956
- 753519 words of memory out of 5000000
- 34166 multiletter control sequences out of 15000+600000
+ 30911 strings out of 493005
+ 587125 string characters out of 6137956
+ 754512 words of memory out of 5000000
+ 34296 multiletter control sequences out of 15000+600000
  17690 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  45i,21n,77p,10415b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ElaheAbol_Thesis.pdf (67 pages).
+Output written on ElaheAbol_Thesis.pdf (71 pages).
