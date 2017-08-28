@@ -3,52 +3,54 @@
 \contentsline {section}{\numberline {2.1}بازی‌ها و تمرین‌های شناختی}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}استفاده از آموزش راهبرد در بازی‌ها}{8}{section.2.2}
 \contentsline {section}{\numberline {2.3}پژوهش‌های انجام شده در حوزه‌ی فعالیت ردیابی همزمان چند شیء}{10}{section.2.3}
-\contentsline {section}{\numberline {2.4}یادگیری مبتنی بر مدل و غیرمبتنی بر مدل}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}نتیجه گیری}{12}{section.2.5}
-\contentsline {chapter}{\numberline {3}آزمایش اول - استخراج راهبرد}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}مقدمه}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}انتخاب بازی}{14}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}بازی‌های انتخاب شده}{14}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}طراحی آزمایش برای انتخاب بازی}{15}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}طراحی آزمایش اول}{16}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}ساختار آزمایش}{16}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}ثبت داده}{17}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}شرکت‌کننده‌ها}{17}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}نحوه محاسبه امتیاز}{18}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}نتایج بخش اول}{18}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}راهبرد‌های استخراج شده}{18}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}امتیازدهی به راهبرد‌ها}{20}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}راهبردهای منتخب برای آزمایش دوم}{22}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}همبستگی با ویژگی های فردی}{24}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}مشکلات موجود در آزمایش اول}{24}{subsection.3.4.5}
-\contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال راهبرد}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}مقدمه}{25}{section.4.1}
-\contentsline {section}{\numberline {4.2}طراحی آزمایش دوم}{25}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}ساختار آزمایش اصلی}{25}{subsection.4.2.1}
-\contentsline {subsubsection}{بخش اول}{26}{section*.12}
-\contentsline {subsubsection}{بخش دوم}{26}{section*.14}
-\contentsline {subsubsection}{بخش سوم}{28}{section*.16}
-\contentsline {subsubsection}{پس از اتمام}{29}{section*.17}
-\contentsline {subsection}{\numberline {4.2.2}گروه کنترلی اول}{29}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}گروه کنترلی دوم}{29}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}شرکت‌کننده‌ها}{30}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}نتایج بخش دوم}{30}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}مولفه‌های استخراج شده از داده‌ها}{30}{subsection.4.3.1}
-\contentsline {subsubsection}{مولفه‌های مربوط به مدل محور یا مدل آزاد بودن}{30}{section*.18}
-\contentsline {subsubsection}{مولفه‌ی مربوط به میزان پیشرفت بازیکن}{31}{section*.19}
-\contentsline {subsubsection}{مولفه مربوط به میزان استفاده از راهبرد}{32}{section*.20}
-\contentsline {subsubsection}{مولفه‌ی مربوط به زمان پاسخگویی}{32}{section*.21}
-\contentsline {subsection}{\numberline {4.3.2}تحلیل همبستگی}{33}{subsection.4.3.2}
-\contentsline {subsubsection}{تحلیل همبستگی بین پیشرفت بازیکن و استفاده از راهبرد}{33}{section*.22}
-\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه w }{34}{section*.24}
-\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه $\beta $}{35}{section*.27}
-\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و تغییرات میانگین زمان پاسخگویی}{36}{section*.29}
-\contentsline {subsection}{\numberline {4.3.3}تحلیل آماری اختلاف میانگین‌ها}{37}{subsection.4.3.3}
-\contentsline {subsubsection}{مقایسه عملکرد افراد در دور دوم بازی نسبت به دور اول در تمام گروه‌ها}{38}{section*.31}
-\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲}{40}{section*.37}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول بازی در تمام گروه‌ها}{42}{section*.41}
-\contentsline {subsubsection}{مقایسه تغییرات زمان پاسخگویی گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲ نسبت به یکدیگر}{44}{section*.46}
-\contentsline {chapter}{\numberline {5}جمع‌بندی و نکته‌های پایانی}{47}{chapter.5}
-\contentsline {chapter}{مراجع}{50}{chapter*.49}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{51}{chapter*.49}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{53}{chapter*.49}
+\contentsline {section}{\numberline {2.4}یادگیری مدل محور و مدل آزاد}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}نتیجه گیری}{13}{section.2.5}
+\contentsline {chapter}{\numberline {3}آزمایش اول - استخراج راهبرد}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}مقدمه}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}انتخاب بازی}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}معرفی بازی}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}طراحی آزمایش اول}{17}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}ساختار آزمایش}{18}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}ثبت داده}{19}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}شرکت‌کننده‌ها}{19}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}نحوه محاسبه امتیاز}{19}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}نتایج بخش اول}{20}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}راهبرد‌های استخراج شده}{20}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}امتیازدهی به راهبرد‌ها}{22}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}راهبردهای منتخب برای آزمایش دوم}{25}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}مشکلات موجود در آزمایش اول}{26}{subsection.3.5.4}
+\contentsline {chapter}{\numberline {4}آزمایش دوم - انتقال راهبرد}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}مقدمه}{27}{section.4.1}
+\contentsline {section}{\numberline {4.2}طراحی آزمایش دوم}{27}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}ساختار آزمایش اصلی}{27}{subsection.4.2.1}
+\contentsline {subsubsection}{بخش اول}{28}{section*.13}
+\contentsline {subsubsection}{بخش دوم}{28}{section*.15}
+\contentsline {subsubsection}{بخش سوم}{30}{section*.17}
+\contentsline {subsubsection}{پس از اتمام}{31}{section*.18}
+\contentsline {subsection}{\numberline {4.2.2}گروه کنترلی اول}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}گروه کنترلی دوم}{31}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}شرکت‌کننده‌ها}{32}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}نتایج بخش دوم}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}مولفه‌های استخراج شده از داده‌ها}{32}{subsection.4.3.1}
+\contentsline {subsubsection}{مولفه‌های مربوط به مدل محور یا مدل آزاد بودن}{32}{section*.19}
+\contentsline {subsubsection}{مولفه‌ی مربوط به میزان پیشرفت بازیکن}{33}{section*.20}
+\contentsline {subsubsection}{مولفه مربوط به میزان استفاده از راهبرد}{34}{section*.21}
+\contentsline {subsubsection}{مولفه‌ی مربوط به زمان پاسخگویی}{34}{section*.22}
+\contentsline {subsection}{\numberline {4.3.2}تحلیل همبستگی}{35}{subsection.4.3.2}
+\contentsline {subsubsection}{تحلیل همبستگی بین پیشرفت بازیکن و استفاده از راهبرد}{35}{section*.23}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه w }{36}{section*.25}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه $\beta $}{37}{section*.28}
+\contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و تغییرات میانگین زمان پاسخگویی}{38}{section*.30}
+\contentsline {subsection}{\numberline {4.3.3}تحلیل آماری اختلاف میانگین‌ها}{39}{subsection.4.3.3}
+\contentsline {subsubsection}{مقایسه عملکرد افراد در دور دوم بازی نسبت به دور اول در تمام گروه‌ها}{40}{section*.32}
+\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲}{42}{section*.38}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول بازی در تمام گروه‌ها}{44}{section*.42}
+\contentsline {subsubsection}{مقایسه تغییرات زمان پاسخگویی گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲ نسبت به یکدیگر}{46}{section*.47}
+\contentsline {chapter}{\numberline {5}تحلیل و جمع‌بندی}{49}{chapter.5}
+\contentsline {section}{\numberline {5.1}تحلیل نتایج به دست آمده}{49}{section.5.1}
+\contentsline {section}{\numberline {5.2}مشکلات موجود}{50}{section.5.2}
+\contentsline {section}{\numberline {5.3}پیشنهاداتی برای آینده}{51}{section.5.3}
+\contentsline {section}{\numberline {5.4}جمع‌بندی}{52}{section.5.4}
+\contentsline {chapter}{مراجع}{56}{chapter*.50}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{57}{chapter*.50}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{59}{chapter*.50}
