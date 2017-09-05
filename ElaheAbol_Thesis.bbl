@@ -5,6 +5,34 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{carney1999TBI}
+N.~Carney, R.~M. Chesnut, H.~Maynard, N.~C. Mann, P.~Patterson, and M.~Helfand,
+  ``Effect of cognitive rehabilitation on outcomes for persons with traumatic
+  brain injury: A systematic review,'' {\em Journal of Head Trauma
+  Rehabilitation},  vol.14,  no.3,  p.277–307, 1999.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{rapp2002olderAdults}
+S.~Rapp, G.~Brenes, and A.~P. Marsh, ``Memory enhancement training for older
+  adults with mild cognitive impairment: A preliminary study,'' {\em Aging &
+  Mental Health},  vol.6,  no.1,  p.5–11, 2002.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kimberly1999ADHDKids}
+K.~A. Kerns, K.~Eso, and J.~Thomson, ``Investigation of a direct intervention
+  for improving attention in young children with adhd,'' {\em Developmental
+  Neuropsychology},  vol.16,  no.2,  p.273–295, 1999.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{melby2013WM}
 M.~Melby-Lervåg and C.~Hulme, ``Is working memory training effective? a
   meta-analytic review.,'' {\em Developmental Psychology},  vol.49,  no.2,
@@ -25,7 +53,16 @@ T.~S. Redick, Z.~Shipstead, T.~L. Harrison, K.~L. Hicks, D.~E. Fried, D.~Z.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{donker2014LearningSt}
+\bibitem{oxford1989LangStrategy}
+R.~L. Oxford, ``Use of language learning strategies: A synthesis of studies
+  with implications for strategy training,'' {\em System},  vol.17,  no.2,
+  p.235–247, 1989.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{donker2014Academic}
 A.~Donker, H.~D. Boer, D.~Kostons, C.~D.~V. Ewijk, and M.~V.~D. Werf,
   ``Effectiveness of learning strategy instruction on academic performance: A
   meta-analysis,'' {\em Educational Research Review},  vol.11,  p.1–26, 2014.
@@ -99,27 +136,9 @@ M.~Melby-Lervåg, T.~S. Redick, and C.~Hulme, ``Working memory training does
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{oxford1989LangStrategy}
-R.~L. Oxford, ``Use of language learning strategies: A synthesis of studies
-  with implications for strategy training,'' {\em System},  vol.17,  no.2,
-  p.235–247, 1989.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{nunan2017Lan}
 D.~Nunan, ``Does learner strategy training make a difference?,'' {\em Lenguas
   Modernas},  pp.123--142, 2017.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{donker2014Academic}
-A.~Donker, H.~D. Boer, D.~Kostons, C.~D.~V. Ewijk, and M.~V.~D. Werf,
-  ``Effectiveness of learning strategy instruction on academic performance: A
-  meta-analysis,'' {\em Educational Research Review},  vol.11,  p.1–26, 2014.
 
 \end{LTRbibitems}
 
@@ -172,6 +191,15 @@ H.~M. Fehd and A.~E. Seiffert, ``Eye movements during multiple object tracking:
 \bibitem{fehd2010centerLook}
 H.~M. Fehd and A.~E. Seiffert, ``Looking at the center of the targets helps
   multiple object tracking,'' 2010.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{daw2011ModelBased}
+N.~D. Daw, S.~J. Gershman, B.~Seymour, P.~Dayan, and R.~J. Dolan, ``Model-based
+  influences on humans choices and striatal prediction errors,'' {\em Neuron},
+  vol.69,  no.6,  p.1204–1215, 2011.
 
 \end{LTRbibitems}
 

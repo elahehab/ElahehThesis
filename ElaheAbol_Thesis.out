@@ -13,28 +13,31 @@
 \BOOKMARK [2][-]{subsection.3.4.1}{ساختار آزمایش}{section.3.4}% 13
 \BOOKMARK [2][-]{subsection.3.4.2}{ثبت داده}{section.3.4}% 14
 \BOOKMARK [2][-]{subsection.3.4.3}{شرکت‌کننده‌ها}{section.3.4}% 15
-\BOOKMARK [2][-]{subsection.3.4.4}{نحوه محاسبه امتیاز}{section.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.4.4}{نحوه محاسبه امتیاز هر بازیکن}{section.3.4}% 16
 \BOOKMARK [1][-]{section.3.5}{نتایج بخش اول}{chapter.3}% 17
 \BOOKMARK [2][-]{subsection.3.5.1}{راهبرد‌های استخراج شده}{section.3.5}% 18
-\BOOKMARK [2][-]{subsection.3.5.2}{امتیازدهی به راهبرد‌ها}{section.3.5}% 19
-\BOOKMARK [2][-]{subsection.3.5.3}{راهبردهای منتخب برای آزمایش دوم}{section.3.5}% 20
-\BOOKMARK [2][-]{subsection.3.5.4}{مشکلات موجود در آزمایش اول}{section.3.5}% 21
-\BOOKMARK [0][-]{chapter.4}{آزمایش دوم - انتقال راهبرد}{}% 22
-\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 23
-\BOOKMARK [1][-]{section.4.2}{طراحی آزمایش دوم}{chapter.4}% 24
-\BOOKMARK [2][-]{subsection.4.2.1}{ساختار آزمایش اصلی}{section.4.2}% 25
-\BOOKMARK [2][-]{subsection.4.2.2}{گروه کنترلی اول}{section.4.2}% 26
-\BOOKMARK [2][-]{subsection.4.2.3}{گروه کنترلی دوم}{section.4.2}% 27
-\BOOKMARK [2][-]{subsection.4.2.4}{شرکت‌کننده‌ها}{section.4.2}% 28
-\BOOKMARK [1][-]{section.4.3}{نتایج بخش دوم}{chapter.4}% 29
-\BOOKMARK [2][-]{subsection.4.3.1}{مولفه‌های استخراج شده از داده‌ها}{section.4.3}% 30
-\BOOKMARK [2][-]{subsection.4.3.2}{تحلیل همبستگی}{section.4.3}% 31
-\BOOKMARK [2][-]{subsection.4.3.3}{تحلیل آماری اختلاف میانگین‌ها}{section.4.3}% 32
-\BOOKMARK [0][-]{chapter.5}{تحلیل و جمع‌بندی}{}% 33
-\BOOKMARK [1][-]{section.5.1}{تحلیل نتایج به دست آمده}{chapter.5}% 34
-\BOOKMARK [1][-]{section.5.2}{مشکلات موجود}{chapter.5}% 35
-\BOOKMARK [1][-]{section.5.3}{پیشنهاداتی برای آینده}{chapter.5}% 36
-\BOOKMARK [1][-]{section.5.4}{جمع‌بندی}{chapter.5}% 37
-\BOOKMARK [0][-]{chapter*.50}{مراجع}{}% 38
-\BOOKMARK [0][-]{chapter*.50}{واژه‌نامه انگلیسی به فارسی}{}% 39
-\BOOKMARK [0][-]{chapter*.50}{واژه‌نامه فارسی به انگلیسی}{}% 40
+\BOOKMARK [2][-]{subsection.3.5.2}{روش محاسبه امتیاز هر راهبرد}{section.3.5}% 19
+\BOOKMARK [2][-]{subsection.3.5.3}{تحلیل امتیاز هر بخش}{section.3.5}% 20
+\BOOKMARK [2][-]{subsection.3.5.4}{راهبردهای منتخب برای آزمایش دوم}{section.3.5}% 21
+\BOOKMARK [2][-]{subsection.3.5.5}{مشکلات موجود در آزمایش اول}{section.3.5}% 22
+\BOOKMARK [0][-]{chapter.4}{آزمایش دوم - انتقال راهبرد}{}% 23
+\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.2}{طراحی آزمایش دوم}{chapter.4}% 25
+\BOOKMARK [2][-]{subsection.4.2.1}{ساختار آزمایش اصلی}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.2}{گروه کنترلی اول}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.3}{گروه کنترلی دوم}{section.4.2}% 28
+\BOOKMARK [2][-]{subsection.4.2.4}{شرکت‌کننده‌ها}{section.4.2}% 29
+\BOOKMARK [1][-]{section.4.3}{نتایج بخش دوم}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.3.1}{مولفه‌های استخراج شده از داده‌ها}{section.4.3}% 31
+\BOOKMARK [2][-]{subsection.4.3.2}{تحلیل همبستگی}{section.4.3}% 32
+\BOOKMARK [2][-]{subsection.4.3.3}{تحلیل آماری اختلاف میانگین‌ها}{section.4.3}% 33
+\BOOKMARK [0][-]{chapter.5}{تحلیل و جمع‌بندی}{}% 34
+\BOOKMARK [1][-]{section.5.1}{تحلیل نتایج به دست آمده}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.2}{مشکلات موجود}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.3}{پیشنهاداتی برای آینده}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.4}{جمع‌بندی}{chapter.5}% 38
+\BOOKMARK [0][-]{chapter.6}{پیوست}{}% 39
+\BOOKMARK [1][-]{section.6.1}{پیوست الف - پرسشنامه آزمایش اول}{chapter.6}% 40
+\BOOKMARK [0][-]{chapter*.50}{مراجع}{}% 41
+\BOOKMARK [0][-]{chapter*.50}{واژه‌نامه انگلیسی به فارسی}{}% 42
+\BOOKMARK [0][-]{chapter*.50}{واژه‌نامه فارسی به انگلیسی}{}% 43
