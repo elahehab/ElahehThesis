@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  5 SEP 2017 17:05
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  5 SEP 2017 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -770,6 +770,46 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
 (c:/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(c:/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box67
+)
+\tc@llx=\dimen169
+\tc@lly=\dimen170
+\tc@urx=\dimen171
+\tc@ury=\dimen172
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(c:/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2012/05/13 v1.0 Clipping driver for xetex
+))
+\adjbox@Width=\dimen173
+\adjbox@Height=\dimen174
+\adjbox@Depth=\dimen175
+\adjbox@Totalheight=\dimen176
+
+(c:/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count172
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box68
+\sift@deathcycles=\count173
+\@vwid@loff=\dimen177
+\@vwid@roff=\dimen178
+))
 (c:/texlive/2017/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2017/05/06 v18.6 Persian typesetting in XeLaTeX
 
@@ -779,23 +819,23 @@ Package: expl3 2017/05/13 L3 programming layer (loader)
 
 (c:/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
-\c_max_int=\count172
-\l_tmpa_int=\count173
-\l_tmpb_int=\count174
-\g_tmpa_int=\count175
-\g_tmpb_int=\count176
-\g__prg_map_int=\count177
-\c_log_iow=\count178
-\l_iow_line_count_int=\count179
-\l__iow_line_target_int=\count180
-\l__iow_one_indent_int=\count181
-\l__iow_indent_int=\count182
-\c_zero_dim=\dimen169
-\c_max_dim=\dimen170
-\l_tmpa_dim=\dimen171
-\l_tmpb_dim=\dimen172
-\g_tmpa_dim=\dimen173
-\g_tmpb_dim=\dimen174
+\c_max_int=\count174
+\l_tmpa_int=\count175
+\l_tmpb_int=\count176
+\g_tmpa_int=\count177
+\g_tmpb_int=\count178
+\g__prg_map_int=\count179
+\c_log_iow=\count180
+\l_iow_line_count_int=\count181
+\l__iow_line_target_int=\count182
+\l__iow_one_indent_int=\count183
+\l__iow_indent_int=\count184
+\c_zero_dim=\dimen179
+\c_max_dim=\dimen180
+\l_tmpa_dim=\dimen181
+\l_tmpb_dim=\dimen182
+\g_tmpa_dim=\dimen183
+\g_tmpb_dim=\dimen184
 \c_zero_skip=\skip91
 \c_max_skip=\skip92
 \l_tmpa_skip=\skip93
@@ -808,96 +848,96 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count183
-\c__fp_leading_shift_int=\count184
-\c__fp_middle_shift_int=\count185
-\c__fp_trailing_shift_int=\count186
-\c__fp_big_leading_shift_int=\count187
-\c__fp_big_middle_shift_int=\count188
-\c__fp_big_trailing_shift_int=\count189
-\c__fp_Bigg_leading_shift_int=\count190
-\c__fp_Bigg_middle_shift_int=\count191
-\c__fp_Bigg_trailing_shift_int=\count192
-\l__sort_length_int=\count193
-\l__sort_min_int=\count194
-\l__sort_top_int=\count195
-\l__sort_max_int=\count196
-\l__sort_true_max_int=\count197
-\l__sort_block_int=\count198
-\l__sort_begin_int=\count199
-\l__sort_end_int=\count266
-\l__sort_A_int=\count267
-\l__sort_B_int=\count268
-\l__sort_C_int=\count269
-\c_empty_box=\box67
-\l_tmpa_box=\box68
-\l_tmpb_box=\box69
-\g_tmpa_box=\box70
-\g_tmpb_box=\box71
-\l__box_top_dim=\dimen175
-\l__box_bottom_dim=\dimen176
-\l__box_left_dim=\dimen177
-\l__box_right_dim=\dimen178
-\l__box_top_new_dim=\dimen179
-\l__box_bottom_new_dim=\dimen180
-\l__box_left_new_dim=\dimen181
-\l__box_right_new_dim=\dimen182
-\l__box_internal_box=\box72
-\l__coffin_internal_box=\box73
-\l__coffin_internal_dim=\dimen183
-\l__coffin_offset_x_dim=\dimen184
-\l__coffin_offset_y_dim=\dimen185
-\l__coffin_x_dim=\dimen186
-\l__coffin_y_dim=\dimen187
-\l__coffin_x_prime_dim=\dimen188
-\l__coffin_y_prime_dim=\dimen189
-\c_empty_coffin=\box74
-\l__coffin_aligned_coffin=\box75
-\l__coffin_aligned_internal_coffin=\box76
-\l_tmpa_coffin=\box77
-\l_tmpb_coffin=\box78
-\l__coffin_display_coffin=\box79
-\l__coffin_display_coord_coffin=\box80
-\l__coffin_display_pole_coffin=\box81
-\l__coffin_display_offset_dim=\dimen190
-\l__coffin_display_x_dim=\dimen191
-\l__coffin_display_y_dim=\dimen192
-\l__coffin_bounding_shift_dim=\dimen193
-\l__coffin_left_corner_dim=\dimen194
-\l__coffin_right_corner_dim=\dimen195
-\l__coffin_bottom_corner_dim=\dimen196
-\l__coffin_top_corner_dim=\dimen197
-\l__coffin_scaled_total_height_dim=\dimen198
-\l__coffin_scaled_width_dim=\dimen199
+\l_keys_choice_int=\count185
+\c__fp_leading_shift_int=\count186
+\c__fp_middle_shift_int=\count187
+\c__fp_trailing_shift_int=\count188
+\c__fp_big_leading_shift_int=\count189
+\c__fp_big_middle_shift_int=\count190
+\c__fp_big_trailing_shift_int=\count191
+\c__fp_Bigg_leading_shift_int=\count192
+\c__fp_Bigg_middle_shift_int=\count193
+\c__fp_Bigg_trailing_shift_int=\count194
+\l__sort_length_int=\count195
+\l__sort_min_int=\count196
+\l__sort_top_int=\count197
+\l__sort_max_int=\count198
+\l__sort_true_max_int=\count199
+\l__sort_block_int=\count266
+\l__sort_begin_int=\count267
+\l__sort_end_int=\count268
+\l__sort_A_int=\count269
+\l__sort_B_int=\count270
+\l__sort_C_int=\count271
+\c_empty_box=\box69
+\l_tmpa_box=\box70
+\l_tmpb_box=\box71
+\g_tmpa_box=\box72
+\g_tmpb_box=\box73
+\l__box_top_dim=\dimen185
+\l__box_bottom_dim=\dimen186
+\l__box_left_dim=\dimen187
+\l__box_right_dim=\dimen188
+\l__box_top_new_dim=\dimen189
+\l__box_bottom_new_dim=\dimen190
+\l__box_left_new_dim=\dimen191
+\l__box_right_new_dim=\dimen192
+\l__box_internal_box=\box74
+\l__coffin_internal_box=\box75
+\l__coffin_internal_dim=\dimen193
+\l__coffin_offset_x_dim=\dimen194
+\l__coffin_offset_y_dim=\dimen195
+\l__coffin_x_dim=\dimen196
+\l__coffin_y_dim=\dimen197
+\l__coffin_x_prime_dim=\dimen198
+\l__coffin_y_prime_dim=\dimen199
+\c_empty_coffin=\box76
+\l__coffin_aligned_coffin=\box77
+\l__coffin_aligned_internal_coffin=\box78
+\l_tmpa_coffin=\box79
+\l_tmpb_coffin=\box80
+\l__coffin_display_coffin=\box81
+\l__coffin_display_coord_coffin=\box82
+\l__coffin_display_pole_coffin=\box83
+\l__coffin_display_offset_dim=\dimen256
+\l__coffin_display_x_dim=\dimen257
+\l__coffin_display_y_dim=\dimen258
+\l__coffin_bounding_shift_dim=\dimen259
+\l__coffin_left_corner_dim=\dimen260
+\l__coffin_right_corner_dim=\dimen261
+\l__coffin_bottom_corner_dim=\dimen262
+\l__coffin_top_corner_dim=\dimen263
+\l__coffin_scaled_total_height_dim=\dimen264
+\l__coffin_scaled_width_dim=\dimen265
 )
 (c:/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\l__driver_tmp_box=\box82
+\l__driver_tmp_box=\box84
 ))
 (c:/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count270
-\g__xparse_grabber_int=\count271
-\l__xparse_m_args_int=\count272
-\l__xparse_mandatory_args_int=\count273
-\l__xparse_v_nesting_int=\count274
+\l__xparse_current_arg_int=\count272
+\g__xparse_grabber_int=\count273
+\l__xparse_m_args_int=\count274
+\l__xparse_mandatory_args_int=\count275
+\l__xparse_v_nesting_int=\count276
 )
 Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
 
 (c:/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count275
-\l__fontspec_language_int=\count276
-\l__fontspec_strnum_int=\count277
-\l__fontspec_tmp_int=\count278
-\l__fontspec_em_int=\count279
-\l__fontspec_emdef_int=\count280
-\l__fontspec_strong_int=\count281
-\l__fontspec_strongdef_int=\count282
-\l__fontspec_tmpa_dim=\dimen256
-\l__fontspec_tmpb_dim=\dimen257
-\l__fontspec_tmpc_dim=\dimen258
+\l__fontspec_script_int=\count277
+\l__fontspec_language_int=\count278
+\l__fontspec_strnum_int=\count279
+\l__fontspec_tmp_int=\count280
+\l__fontspec_em_int=\count281
+\l__fontspec_emdef_int=\count282
+\l__fontspec_strong_int=\count283
+\l__fontspec_strongdef_int=\count284
+\l__fontspec_tmpa_dim=\dimen266
+\l__fontspec_tmpb_dim=\dimen267
+\l__fontspec_tmpc_dim=\dimen268
 \g__file_internal_ior=\read2
 
 (c:/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
@@ -1084,43 +1124,43 @@ LaTeX Info: Redefining \- on input line 3807.
 ))
 (c:/texlive/2017/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count283
-\XePersian@y=\count284
-\XePersian@m=\count285
-\XePersian@d=\count286
-\XePersian@latini=\count287
-\XePersian@persiani=\count288
-\XePersian@latinii=\count289
-\XePersian@persianii=\count290
-\XePersian@latiniii=\count291
-\XePersian@persianiii=\count292
-\XePersian@latiniv=\count293
-\XePersian@persianiv=\count294
-\XePersian@latinv=\count295
-\XePersian@persianv=\count296
-\XePersian@latinvi=\count297
-\XePersian@persianvi=\count298
-\XePersian@latinvii=\count299
-\XePersian@persianvii=\count300
-\XePersian@latinviii=\count301
-\XePersian@persianviii=\count302
-\XePersian@latinix=\count303
-\XePersian@persianix=\count304
-\XePersian@latinx=\count305
-\XePersian@persianx=\count306
-\XePersian@latinxi=\count307
-\XePersian@persianxi=\count308
-\XePersian@latinxii=\count309
-\XePersian@persianxii=\count310
-\XePersian@persianxiii=\count311
-\XePersian@temp=\count312
-\XePersian@temptwo=\count313
-\XePersian@tempthree=\count314
-\XePersian@yModHundred=\count315
-\XePersian@thirtytwo=\count316
-\XePersian@dn=\count317
-\XePersian@sn=\count318
-\XePersian@mminusone=\count319
+\XePersian@i=\count285
+\XePersian@y=\count286
+\XePersian@m=\count287
+\XePersian@d=\count288
+\XePersian@latini=\count289
+\XePersian@persiani=\count290
+\XePersian@latinii=\count291
+\XePersian@persianii=\count292
+\XePersian@latiniii=\count293
+\XePersian@persianiii=\count294
+\XePersian@latiniv=\count295
+\XePersian@persianiv=\count296
+\XePersian@latinv=\count297
+\XePersian@persianv=\count298
+\XePersian@latinvi=\count299
+\XePersian@persianvi=\count300
+\XePersian@latinvii=\count301
+\XePersian@persianvii=\count302
+\XePersian@latinviii=\count303
+\XePersian@persianviii=\count304
+\XePersian@latinix=\count305
+\XePersian@persianix=\count306
+\XePersian@latinx=\count307
+\XePersian@persianx=\count308
+\XePersian@latinxi=\count309
+\XePersian@persianxi=\count310
+\XePersian@latinxii=\count311
+\XePersian@persianxii=\count312
+\XePersian@persianxiii=\count313
+\XePersian@temp=\count314
+\XePersian@temptwo=\count315
+\XePersian@tempthree=\count316
+\XePersian@yModHundred=\count317
+\XePersian@thirtytwo=\count318
+\XePersian@dn=\count319
+\XePersian@sn=\count320
+\XePersian@mminusone=\count321
 )
 (c:/texlive/2017/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
 Package: xepersian-mathsdigitspec 2016/05/03 v1.1.2 Unicode Persian maths digit
@@ -1208,12 +1248,12 @@ Package: biditools 2016/11/30 v0.9 Programming tools for bidi package
 File: latex-xetex-bidi.def 2017/05/06 v1.2.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks51
-\bidi@column@check@number=\count320
+\bidi@column@check@number=\count322
 
 (c:/texlive/2017/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2016/09/09 v1.0 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count321
+\c@footdir@label=\count323
 \footdir@toks=\toks52
 )
 (c:/texlive/2017/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
@@ -1302,12 +1342,16 @@ ackage for XeTeX engine
 (c:/texlive/2017/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
 File: multicol-xetex-bidi.def 2016/11/27 v0.8 bidi adaptations for multicol pac
 kage for XeTeX engine
+)
+(c:/texlive/2017/texmf-dist/tex/xelatex/bidi/tc-xetex-bidi.def
+File: tc-xetex-bidi.def 2014/07/08 v0.1 bidi adaptations for Clipping driver fo
+r XeTeX engine
 ))
 (c:/texlive/2017/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
 File: loadingorder-xetex-bidi.def 2015/10/16 v0.96 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count322
+\bidi@digits=\count324
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@dot@charclass=\XeTeXcharclass2
 \bidi@dash@charclass=\XeTeXcharclass3
@@ -1385,9 +1429,9 @@ File: loadingorder-xetex-bidi.def 2015/10/16 v0.96 making sure that bidi is the
 . 
 . Defining command \setiranicfont with sig. 'O{}mO{}' on line 317.
 .................................................
-\xepersian@tcl=\count323
-\xepersian@ilg=\dimen259
-\xepersian@strutilg=\dimen260
+\xepersian@tcl=\count325
+\xepersian@ilg=\dimen269
+\xepersian@strutilg=\dimen270
 (c:/texlive/2017/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2012/01/01 v0.3 making sure that xepersian is 
 the last package loaded
@@ -1425,8 +1469,8 @@ features for XeTeX engine
 \footinsdim=\skip100
 \footinsv@r=\insert252
 \@mpfootinsv@r=\insert251
-\m@m@k=\count324
-\m@m@h=\dimen261
+\m@m@k=\count326
+\m@m@h=\dimen271
 \m@mipn@skip=\skip101
 )
 (c:/texlive/2017/texmf-dist/tex/xelatex/xepersian/extrafootnotefeatures-xepersi
@@ -1434,7 +1478,7 @@ an.def
 File: extrafootnotefeatures-xepersian.def 2012/01/01 v0.2 footnote macros for e
 xtrafootnotefeatures option of xepersian package
 )
-\g__fontspec_family_lmroman10-regular_int=\count325
+\g__fontspec_family_lmroman10-regular_int=\count327
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1473,7 +1517,7 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 . <->"[lmromancaps10-regular]/OT:script=latn;language=DFLT;mapping=tex-text;"
 .................................................
 )
-\g__fontspec_family_XBNiloofar_int=\count326
+\g__fontspec_family_XBNiloofar_int=\count328
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1496,8 +1540,8 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 12.26393pt on input line 79.
-\g__fontspec_family_TimesNewRoman_int=\count327
+(Font)              scaled to size 12.26393pt on input line 66.
+\g__fontspec_family_TimesNewRoman_int=\count329
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1523,7 +1567,7 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->s*[1.05]"Times New
 . Roman/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-LaTeX Info: Redefining \latinfont on input line 80.
+LaTeX Info: Redefining \latinfont on input line 67.
 
 *************************************************
 * fontspec warning: "language-not-exist"
@@ -1531,7 +1575,7 @@ LaTeX Info: Redefining \latinfont on input line 80.
 * Language 'Parsi' not available for font 'IranNastaliq' with script 'Parsi'.
 *  'Default' language used instead.
 *************************************************
-\g__fontspec_family_IranNastaliq_int=\count328
+\g__fontspec_family_IranNastaliq_int=\count330
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1594,76 +1638,48 @@ LaTeX Info: Redefining \latinfont on input line 80.
 .................................................
 
 Package glossaries Warning: \defglsdisplayfirst is now obsolete.
- Use \defglsentryfmt instead on input line 167.
+ Use \defglsentryfmt instead on input line 154.
 
 \glswrite=\write3
 \glo@main@file=\write4
 \openout4 = `ElaheAbol_Thesis.glo'.
 
 Package glossaries Info: Writing glossary file ElaheAbol_Thesis.glo on input li
-ne 170.
+ne 157.
 \glo@latin@file=\write5
 \openout5 = `ElaheAbol_Thesis.glo'.
 
 Package glossaries Info: Writing glossary file ElaheAbol_Thesis.glo on input li
-ne 170.
+ne 157.
 \glo@persian@file=\write6
 \openout6 = `ElaheAbol_Thesis.blo'.
 
 Package glossaries Info: Writing glossary file ElaheAbol_Thesis.blo on input li
-ne 170.
+ne 157.
 \@input{glossary-fa.aux}
 \openout2 = `glossary-fa.aux'.
 
-(./glossary-fa.tex
-
-! Package glossaries Error: Glossary entry `fa-آموزش راهبرد' has already been d
-efined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...�موزش راهبرد}{Strategy training}
-                                                  
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-
-! Package glossaries Error: Glossary entry `la-آموزش راهبرد' has already been d
-efined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 ...�موزش راهبرد}{Strategy training}
-                                                  
-(That was another \errmessage.)
-
-) (./ElaheAbol_Thesis.aux)
+(./glossary-fa.tex) (./ElaheAbol_Thesis.aux)
 \openout1 = `ElaheAbol_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 176.
-LaTeX Font Info:    ... okay on input line 176.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1676,8 +1692,8 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box83
-Package hyperref Info: Link coloring OFF on input line 176.
+\AtBeginShipoutBox=\box85
+Package hyperref Info: Link coloring OFF on input line 163.
 
 (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1685,11 +1701,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count329
+\c@section@level=\count331
 )
-LaTeX Info: Redefining \ref on input line 176.
-LaTeX Info: Redefining \pageref on input line 176.
-LaTeX Info: Redefining \nameref on input line 176.
+LaTeX Info: Redefining \ref on input line 163.
+LaTeX Info: Redefining \pageref on input line 163.
+LaTeX Info: Redefining \nameref on input line 163.
 
 (./ElaheAbol_Thesis.out) (./ElaheAbol_Thesis.out)
 \@outlinefile=\write7
@@ -1705,17 +1721,17 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 181.
+LaTeX Font Info:    Try loading font information for U+msa on input line 168.
 
 (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 181.
+LaTeX Font Info:    Try loading font information for U+msb on input line 168.
 
 (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+stmry on input line 181.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 168.
 
 
 (c:/texlive/2017/texmf-dist/tex/latex/stmaryrd/ustmry.fd)
@@ -1738,21 +1754,21 @@ File: Figures/ut.png Graphic file (type QTm)
 File: Figures/eng.png Graphic file (type QTm)
  <use  "Figures/eng.png" >
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 19.3535pt on input line 203.
+(Font)              scaled to size 19.3535pt on input line 190.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 19.3535pt on input line 203.
+(Font)              scaled to size 19.3535pt on input line 190.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 16.12791pt on input line 205.
+(Font)              scaled to size 16.12791pt on input line 192.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 16.12791pt on input line 205.
+(Font)              scaled to size 16.12791pt on input line 192.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 27.86548pt on input line 210.
+(Font)              scaled to size 27.86548pt on input line 197.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 27.86548pt on input line 210.
+(Font)              scaled to size 27.86548pt on input line 197.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 13.43994pt on input line 212.
+(Font)              scaled to size 13.43994pt on input line 199.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 13.43994pt on input line 224.
+(Font)              scaled to size 13.43994pt on input line 211.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1760,9 +1776,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/sl' in size <10.95> not avai
 lable
 (Font)              Font shape `TU/XBNiloofar(0)/m/it' tried instead on input l
-ine 245.
+ine 232.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/it' will be
-(Font)              scaled to size 12.26393pt on input line 245.
+(Font)              scaled to size 12.26393pt on input line 232.
 
 [4] [5]
 File: Figures/ut.png Graphic file (type QTm)
@@ -1771,19 +1787,19 @@ File: Figures/eng.png Graphic file (type QTm)
  <use  "Figures/eng.png" > [6] [7] [8] [9]
 [10]
 LaTeX Font Info:    Font shape `TU/IranNastaliq(1)/m/n' will be
-(Font)              scaled to size 14.23502pt on input line 331.
+(Font)              scaled to size 14.23502pt on input line 318.
 LaTeX Font Info:    Font shape `TU/IranNastaliq(1)/m/n' will be
-(Font)              scaled to size 32.34407pt on input line 331.
+(Font)              scaled to size 32.34407pt on input line 318.
 LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 332.
+(Font)              scaled to size 24.88pt on input line 319.
 LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 335.
+(Font)              scaled to size 17.28pt on input line 322.
  [11] [12]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 12.26393pt on input line 368.
+(Font)              scaled to size 12.26393pt on input line 355.
  [1]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 11.19995pt on input line 382.
+(Font)              scaled to size 11.19995pt on input line 369.
  [2] (./ElaheAbol_Thesis.toc
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
 (Font)              scaled to size 11.19995pt on input line 1.
@@ -1816,53 +1832,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [10]
 فصل 1.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 23.2287pt on input line 402.
+(Font)              scaled to size 23.2287pt on input line 389.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 23.2287pt on input line 402.
-
-! Package glossaries Error: Glossary entry `fa-توانایی‌های شناختی' has not been
- defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.407 ...mls{توانایی‌های شناختی}
-                                                   گفته می‌شود. �...
-
-You need to define a glossary entry before you can use it.
-
-
-! Package glossaries Error: Glossary entry `la-توانایی‌های شناختی' has not been
- defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.407 ...ls{توانایی‌های شناختی} 
-                                                  گفته می‌شود. د...
-
-You need to define a glossary entry before you can use it.
-
+(Font)              scaled to size 23.2287pt on input line 389.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 8.95996pt on input line 411.
+(Font)              scaled to size 8.95996pt on input line 394.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 10.07996pt on input line 411.
+(Font)              scaled to size 10.07996pt on input line 394.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 9.45003pt on input line 411.
+(Font)              scaled to size 9.45003pt on input line 394.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 6.30002pt on input line 411.
+(Font)              scaled to size 6.30002pt on input line 394.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1472) has occurred while \output is active []
 
  [1
 
 ]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.49753pt on input line 413.
+(Font)              scaled to size 11.49753pt on input line 400.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7888) has occurred while \output is active []
 
  [2]
 Underfull \vbox (badness 7186) has occurred while \output is active []
@@ -1876,7 +1866,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 فصل 2.
 
-Overfull \hbox (9.8384pt too wide) in paragraph at lines 439--441
+Overfull \hbox (9.8384pt too wide) in paragraph at lines 426--428
 []\TU/XBNiloofar(0)/m/n/10.95 بازی‌های شناختی بازی‌هایی هستند که تلاش می‌کنند ت
 وانمندی‌های شناختی افراد را تقویت کنند. توانمندی‌های[]
  []
@@ -1893,9 +1883,9 @@ Underfull \vbox (badness 1231) has occurred while \output is active []
  [10]
 [11] [12]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 6.71997pt on input line 485.
+(Font)              scaled to size 6.71997pt on input line 472.
 
-Overfull \hbox (63.168pt too wide) detected at line 491
+Overfull \hbox (63.168pt too wide) detected at line 478
 [][] []
  []
 
@@ -1913,14 +1903,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [17]
 File: Figures/cloudsGame.png Graphic file (type QTm)
  <use  "Figures/cloudsGame.png" >
-Overfull \hbox (53.7061pt too wide) in paragraph at lines 523--526
+Overfull \hbox (53.7061pt too wide) in paragraph at lines 510--513
  [][][][][][] 
  []
 
 [18] [19]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 538.
+               Default added (so using `tbp') on input line 525.
 
 [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1931,25 +1921,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [22]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 582.
+               Default added (so using `tbp') on input line 569.
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 8.95996pt on input line 591.
+(Font)              scaled to size 8.95996pt on input line 578.
 
-Overfull \hbox (18.50032pt too wide) in paragraph at lines 589--606
+Overfull \hbox (18.50032pt too wide) in paragraph at lines 576--593
  [][][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 612.
+               Default added (so using `tbp') on input line 599.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 631.
+               Default added (so using `tbp') on input line 618.
 
 [23] [24]
-Overfull \hbox (6.62984pt too wide) detected at line 668
+Overfull \hbox (6.62984pt too wide) detected at line 655
 [][]\OML/cmm/m/it/10.95 useStrategy\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 pers
 on \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 i; strategy \OT1/cmr/m/n/10.95 = \O
 ML/cmm/m/it/10.95 k; part \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 j\OT1/cmr/m/
@@ -1957,7 +1947,7 @@ n/10.95 ) = []
  []
 
 
-Overfull \hbox (24.08794pt too wide) detected at line 678
+Overfull \hbox (24.08794pt too wide) detected at line 665
 [][]\OML/cmm/m/it/10.95 score\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 strategy \
 OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 k; part \OT1/cmr/m/n/10.95 = \OML/cmm/m
 /it/10.95 j\OT1/cmr/m/n/10.95 ) = [] [] \OML/cmm/m/it/10.95 score\OT1/cmr/m/n/1
@@ -1971,63 +1961,70 @@ rt \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 j\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-File: Figures/part2-5AvgScores.png Graphic file (type QTm)
+File: Figures/extractStrategyPartsHist.png Graphic file (type QTm)
 
-<use  "Figures/part2-5AvgScores.png" >
+<use  "Figures/extractStrategyPartsHist.png" >
+
+LaTeX Warning: Reference `fig:part2-6MedianOfScores' on page 26 undefined on in
+put line 682.
+
+File: Figures/part2-6MedianOfScores.png Graphic file (type QTm)
+<use  "Figures/part2-6MedianOfScores.png" > [26]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 699.
+               Default added (so using `tbp') on input line 692.
 
-[26]
-File: Figures/notMainStrAvg.png Graphic file (type QTm)
- <use  "Figures/notMainStrAvg.png" >
-Overfull \hbox (20.57768pt too wide) in paragraph at lines 720--723
- [][][][][][] 
- []
 
-[27] [28]
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 714.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+[28] [29] [30
+
+]
 فصل 4.
 File: Figures/plainJungleProb.png Graphic file (type QTm)
 <use  "Figures/plainJungleProb.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29
-
-]
-[30]
+ [31]
+[32]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 764.
+               Default added (so using `tbp') on input line 772.
 
 
 Underfull \vbox (badness 2205) has occurred while \output is active []
 
- [31]
-[32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [33]
-Underfull \vbox (badness 2293) has occurred while \output is active []
-
- [34]
+[34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-Underfull \vbox (badness 6542) has occurred while \output is active []
+Underfull \vbox (badness 2293) has occurred while \output is active []
 
  [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 6542) has occurred while \output is active []
+
+ [38]
 File: Figures/impv1strUseScatter.png Graphic file (type QTm)
 
 <use  "Figures/impv1strUseScatter.png" >
 Underfull \vbox (badness 1400) has occurred while \output is active []
 
- [37]
+ [39]
 File: Figures/stUsewScatter.png Graphic file (type QTm)
 
 <use  "Figures/stUsewScatter.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [40]
 File: Figures/stUsewScatterNoZero.png Graphic file (type QTm)
 
 <use  "Figures/stUsewScatterNoZero.png" >
@@ -2036,63 +2033,65 @@ File: Figures/betaStUseScatter.png Graphic file (type QTm)
 <use  "Figures/betaStUseScatter.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
+ [41]
 File: Figures/stUseDtScatter.png Graphic file (type QTm)
 
 <use  "Figures/stUseDtScatter.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
+ [42]
 File: Figures/p1sNorm.png Graphic file (type QTm)
 
 <use  "Figures/p1sNorm.png" >
-Overfull \hbox (2.0913pt too wide) in paragraph at lines 923--926
+Overfull \hbox (2.0913pt too wide) in paragraph at lines 931--934
  [][][][][][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
 File: Figures/p2sNorm.png Graphic file (type QTm)
-
 <use  "Figures/p2sNorm.png" >
-Overfull \hbox (2.46764pt too wide) in paragraph at lines 931--934
+Overfull \hbox (2.46764pt too wide) in paragraph at lines 939--942
  [][][][][][] 
  []
 
 File: Figures/p3sNorm.png Graphic file (type QTm)
 <use  "Figures/p3sNorm.png" >
-Overfull \hbox (1.71492pt too wide) in paragraph at lines 939--942
+Overfull \hbox (1.71492pt too wide) in paragraph at lines 947--950
  [][][][][][] 
  []
 
+[43] [44]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 948.
+               Default added (so using `tbp') on input line 956.
 
 
-Underfull \vbox (badness 4660) has occurred while \output is active []
+Underfull \vbox (badness 4013) has occurred while \output is active []
 
- [42]
-[43]
+ [45]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 968.
+               Default added (so using `tbp') on input line 976.
 
 File: Figures/impv123NormalPlot.png Graphic file (type QTm)
 <use  "Figures/impv123NormalPlot.png" >
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+ [46]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1000.
+               Default added (so using `tbp') on input line 1008.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1022.
+               Default added (so using `tbp') on input line 1030.
 
-[44] [45]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
 File: Figures/p1tNorm.png Graphic file (type QTm)
- <use  "Figures/p1tNorm.png" >
+
+<use  "Figures/p1tNorm.png" >
 File: Figures/p2tNorm.png Graphic file (type QTm)
  <use  "Figures/p2tNorm.png" >
 File: Figures/p3tNorm.png Graphic file (type QTm)
@@ -2100,27 +2099,31 @@ File: Figures/p3tNorm.png Graphic file (type QTm)
 <use  "Figures/p3tNorm.png" >
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1075.
+               Default added (so using `tbp') on input line 1083.
 
-[46] [47]
+
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+ [48]
+[49]
 File: Figures/dtNorm.png Graphic file (type QTm)
- <use  "Figures/dtNorm.png" > [48]
+ <use  "Figures/dtNorm.png" >
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1106.
+               Default added (so using `tbp') on input line 1114.
 
-[49] [50
+[50] [51] [52
 
 ]
 فصل 5.
-[51]
+[53]
 Underfull \vbox (badness 1721) has occurred while \output is active []
 
- [52]
+ [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
-[54]
+ [55]
+[56]
 فصل 6.
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf" >
@@ -2131,7 +2134,7 @@ File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf"  page1>
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
-<use  "docs/InformationForm_V07.pdf"  page1> [55
+<use  "docs/InformationForm_V07.pdf"  page1> [57
 
 ]
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
@@ -2142,7 +2145,7 @@ File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf"  page1>
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
-<use  "docs/InformationForm_V07.pdf"  page1> [56]
+<use  "docs/InformationForm_V07.pdf"  page1> [58]
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
 <use  "docs/InformationForm_V07.pdf"  page2>
@@ -2151,7 +2154,7 @@ File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf"  page2>
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
-<use  "docs/InformationForm_V07.pdf"  page2> [57]
+<use  "docs/InformationForm_V07.pdf"  page2> [59]
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
 <use  "docs/InformationForm_V07.pdf"  page3>
@@ -2160,7 +2163,7 @@ File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf"  page3>
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
-<use  "docs/InformationForm_V07.pdf"  page3> [58]
+<use  "docs/InformationForm_V07.pdf"  page3> [60]
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
 <use  "docs/InformationForm_V07.pdf"  page4>
@@ -2169,7 +2172,7 @@ File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 <use  "docs/InformationForm_V07.pdf"  page4>
 File: docs/InformationForm_V07.pdf Graphic file (type QTm)
 
-<use  "docs/InformationForm_V07.pdf"  page4> [59] [60] (./ElaheAbol_Thesis.bbl
+<use  "docs/InformationForm_V07.pdf"  page4> [61] [62] (./ElaheAbol_Thesis.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 10.50003pt on input line 7.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
@@ -2185,65 +2188,72 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[61
+[63
 
 
-]) [62]
-
-Package glossaries Warning: Deprecated command \glossarystyle.
- I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1186.
-
+]) [64]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1186.
+rd compatibility on input line 1194.
+
+
+Package glossaries Warning: Deprecated command \glossarystyle.
+ I recommend you switch to \setglossarystyle unless you want to maintain backwa
+rd compatibility on input line 1194.
 
 No file ElaheAbol_Thesis.gls.
-[63] [64]
+[65] [66]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1195.
+rd compatibility on input line 1203.
 
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 1195.
+rd compatibility on input line 1203.
 
 No file ElaheAbol_Thesis.bls.
-[65] [66]
+[67] [68]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 10.50003pt on input line 1211.
- [67] [68]
+(Font)              scaled to size 10.50003pt on input line 1219.
+ [69] [70]
 File: Figures/eng.png Graphic file (type QTm)
  <use  "Figures/eng.png" >
 File: Figures/ut.png Graphic file (type QTm)
  <use  "Figures/ut.png" >
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 15.12003pt on input line 1247.
+(Font)              scaled to size 15.12003pt on input line 1255.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 15.12003pt on input line 1247.
+(Font)              scaled to size 15.12003pt on input line 1255.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.60004pt on input line 1250.
+(Font)              scaled to size 12.60004pt on input line 1258.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' will be
-(Font)              scaled to size 12.60004pt on input line 1257.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1281.
- [69]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1281.
+(Font)              scaled to size 12.60004pt on input line 1265.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1289.
+ [71]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1289.
 
 (./ElaheAbol_Thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1281.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1281.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1281.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1289.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1289.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1289.
  ) 
 Here is how much of TeX's memory you used:
- 32188 strings out of 493005
- 613479 string characters out of 6137956
- 774141 words of memory out of 5000000
- 35538 multiletter control sequences out of 15000+600000
+ 32821 strings out of 493005
+ 625432 string characters out of 6137956
+ 783936 words of memory out of 5000000
+ 36144 multiletter control sequences out of 15000+600000
  17690 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  45i,21n,77p,10415b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ElaheAbol_Thesis.pdf (91 pages).
+Output written on ElaheAbol_Thesis.pdf (93 pages).
