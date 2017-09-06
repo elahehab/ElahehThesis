@@ -1,0 +1,25 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: cp1256fa.csf
+The top-level auxiliary file: ElaheAbol_Thesis.aux
+The style file: ieeetr-fa.bst
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Database file #1: ref.bib
+-- ieeetr-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty journal in fehd2010centerLook
+
+Done.
+
+Here's how much of BibTeX's memory you used:
+ Cites:                23 out of 750
+ Fields:              561 out of 5000
+ Hash table:        29802 out of 30000
+ Strings:             760 out of 30000
+ Free string pool:   9469 out of 65000
+ Wizard functions:   2349 out of 3000
+(There was 1 warning)

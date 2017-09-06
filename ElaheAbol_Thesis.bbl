@@ -5,6 +5,16 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{fernandez2013sharpBrainsBook}
+A.~Fernandez, E.~Goldberg, and P.~Michelon.
+\newblock {\em The Sharpbrains guide to brain fitness: how to optimize brain
+  health and performance at any age}.
+\newblock Sharpbrains, Inc., 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{carney1999TBI}
 N.~Carney, R.~M. Chesnut, H.~Maynard, N.~C. Mann, P.~Patterson, and M.~Helfand,
   ``Effect of cognitive rehabilitation on outcomes for persons with traumatic
@@ -53,6 +63,15 @@ T.~S. Redick, Z.~Shipstead, T.~L. Harrison, K.~L. Hicks, D.~E. Fried, D.~Z.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{jaeggi2013IndiDiff}
+S.~M. Jaeggi, M.~Buschkuehl, P.~Shah, and J.~Jonides, ``The role of individual
+  differences in cognitive training and transfer,'' {\em Memory \& Cognition},
+  vol.42,  p.464–480, Jan 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{oxford1989LangStrategy}
 R.~L. Oxford, ``Use of language learning strategies: A synthesis of studies
   with implications for strategy training,'' {\em System},  vol.17,  no.2,
@@ -94,15 +113,6 @@ E.~W. Twamley, G.~N. Savla, C.~H. Zurhellen, R.~K. Heaton, and D.~V. Jeste,
 S.~M. Jaeggi, M.~Buschkuehl, J.~Jonides, and P.~Shah, ``Short- and long-term
   benefits of cognitive training,'' {\em Proceedings of the National Academy of
   Sciences},  vol.108,  no.25,  pp.10081--10086, 2011.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{jaeggi2013IndiDiff}
-S.~M. Jaeggi, M.~Buschkuehl, P.~Shah, and J.~Jonides, ``The role of individual
-  differences in cognitive training and transfer,'' {\em Memory \& Cognition},
-  vol.42,  p.464–480, Jan 2013.
 
 \end{LTRbibitems}
 
