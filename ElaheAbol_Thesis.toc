@@ -43,10 +43,10 @@
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و مولفه $\beta $}{41}{section*.30}
 \contentsline {subsubsection}{تحلیل همبستگی بین استفاده از راهبرد و تغییرات میانگین زمان پاسخگویی}{42}{section*.32}
 \contentsline {subsection}{\numberline {4.3.3}تحلیل آماری اختلاف میانگین‌ها}{43}{subsection.4.3.3}
-\contentsline {subsubsection}{مقایسه عملکرد افراد در دور دوم بازی نسبت به دور اول در تمام گروه‌ها}{43}{section*.34}
-\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲}{46}{section*.40}
-\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول بازی در تمام گروه‌ها}{48}{section*.44}
-\contentsline {subsubsection}{مقایسه تغییرات زمان پاسخگویی گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲ نسبت به یکدیگر}{50}{section*.49}
+\contentsline {subsubsection}{مقایسه عملکرد افراد در دور دوم بازی نسبت به دور اول در تمام گروه‌ها}{44}{section*.34}
+\contentsline {subsubsection}{مقایسه‌ی تغییرات عملکرد گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲}{46}{section*.41}
+\contentsline {subsubsection}{مقایسه زمان پاسخگویی دور دوم نسبت به دور اول بازی در تمام گروه‌ها}{49}{section*.46}
+\contentsline {subsubsection}{مقایسه تغییرات زمان پاسخگویی گروه اصلی، گروه کنترل ۱ و گروه کنترل ۲ نسبت به یکدیگر}{51}{section*.52}
 \contentsline {chapter}{\numberline {5}تحلیل و جمع‌بندی}{53}{chapter.5}
 \contentsline {section}{\numberline {5.1}تحلیل نتایج به دست آمده}{53}{section.5.1}
 \contentsline {section}{\numberline {5.2}مشکلات موجود}{54}{section.5.2}
@@ -54,6 +54,6 @@
 \contentsline {section}{\numberline {5.4}جمع‌بندی}{56}{section.5.4}
 \contentsline {chapter}{\numberline {6}پیوست}{57}{chapter.6}
 \contentsline {section}{\numberline {6.1}پیوست الف - پرسشنامه آزمایش اول}{57}{section.6.1}
-\contentsline {chapter}{مراجع}{64}{chapter*.52}
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{65}{chapter*.52}
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{67}{chapter*.52}
+\contentsline {chapter}{مراجع}{64}{chapter*.56}
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{65}{chapter*.56}
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{67}{chapter*.56}
