@@ -47,6 +47,7 @@
 (indexentry :tkey (("آنالیز واریانس" "\\glossentry{fa-آنالیز واریانس}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("کروسکال-والیس" "\\glossentry{fa-کروسکال-والیس}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("ویلکاکسون" "\\glossentry{fa-ویلکاکسون}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("کولموگروف-اسمیرنف" "\\glossentry{fa-کولموگروف-اسمیرنف}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("برخط" "\\glossentry{fa-برخط}") ) :locref "{}{29}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("آزمون دو مرحله‌ای دا" "\\glossentry{fa-آزمون دو مرحله‌ای دا}") ) :locref "{}{32}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("قدم زدن تصادفی" "\\glossentry{fa-قدم زدن تصادفی}") ) :locref "{}{32}" :attr "pageglsnumberformat" ) 

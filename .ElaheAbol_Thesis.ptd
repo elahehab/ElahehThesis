@@ -1,4 +1,4 @@
-<!1,2017090613:43:06>
+<!1,2017090712:51:02>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -60,7 +60,6 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\usepackage[extrafootnotefeatures]{xepersian}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\LTRcolumnfootnotes‎</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\numberwithin{equation}{chapter}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\numberwithin{table}{chapter}‎</p>
@@ -682,7 +681,30 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">}</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{figure}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">با توجه به شکل ‎\ref{fig:extractStrategyPartsHist}‎ می‌بینیم که توزیع داده‌ها از توزیع نرمال خیلی فاصله دارد در نتیجه نمی‌توانیم از آزمون ‎t‎  یا آنالیز واریانس استفاده کنیم. به همین دلیل در این بخش از آزمون کروسکال-والیس استفاده خواهیم کرد. در این آزمون حداقل سطح معناداری برابر با ‎$\alpha = 0.05$‎ در نظر گرفته شده است.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">با توجه به شکل ‎\ref{fig:extractStrategyPartsHist}‎ می‌بینیم که توزیع داده‌ها از توزیع نرمال خیلی فاصله دارد. برای بررسی دقیق‌تر از آزمون ‎\mls{کولموگروف-اسمیرنف}‎ با سطح معناداری ۰/۰۵ استفاده می‌کنیم. ‏در این آزمون فرض صفر نرمال بودن توزیع است. بنابراین در صورتی که مقدار ‎p-value‎‏ کمتر از سطح معناداری باشد فرض صفر رد خواهد شد و نمی‌توانیم نتیجه بگیریم توزیع نرمال است. در جدول ‎\ref{‎tbl:KolSmirPart1Res}‎ ‏مقدار ‎p-value‎‏ حاصل از این آزمون نمایش داده شده است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\begin{table}[]‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\centering‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\caption{‏نتیجه‌ی آزمون کولموگروف-اسمیرنف}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\label{‎tbl:KolSmirPart1Res‎}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{scriptsize}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{center}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\renewcommand{\arraystretch}{2}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{tabular}{|c|‎c‎|c|c|}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">&amp;\textbf{‎‏گروه راهبرد ۱} ‎&amp;\textbf{‎‏گروه راهبرد ۲}‎&amp; ‎‎\textbf{‏گروه راهبرد ۳}‎‎ ‎\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\textbf{‎‏بخش دوم بازی}‎‎ &amp; $‎1.14‎ ‎‎\times‎‎ ‎‎‎10^{-4}$‎‎&amp;$‎1.09‎ ‎‎\times‎‎ ‎‎‎10^{-4}$&amp;-\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\textbf{‎‏بخش سوم بازی} &amp;‎ $0.0017$  ‎&amp;$‎2.05‎ ‎‎\times‎‎ ‎‎‎10^{-5}$&amp;$‎1.04‎ ‎‎\times‎‎ ‎‎‎10^{-4}$\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\textbf{‎‏بخش چهارم بازی} &amp; ‎$0.0011$&amp;$‎6.25‎ ‎‎\times‎‎ ‎‎‎10^{-6}$&amp;$‎6.13‎ ‎‎\times‎‎ ‎‎‎10^{-5}$\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\textbf{‎‏بخش پنجم بازی} &amp;‎$‎0.0016$ ‎&amp;$‎1.34‎ ‎‎\times‎‎ ‎‎‎10^{-5}$&amp;$‎2.27‎ ‎‎\times‎‎ ‎‎‎10^{-5}$\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎‎\textbf{‎‏بخش ششم بازی} &amp;$‎0.18$‎&amp;$‎0.01$‎&amp;$‎0.11$‎\\ \hline‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{tabular}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{center}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{scriptsize}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{table}‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">نتایج نمایش داده شده در جدول نشان می‌دهد به جز دو مورد سایر توزیع‌ها نرمال نیستند. در نتیجه نمی‌توانیم از آزمون ‎t‎  یا آنالیز واریانس استفاده کنیم. به همین دلیل در این بخش از آزمون کروسکال-والیس استفاده خواهیم کرد. در این آزمون حداقل سطح معناداری برابر با ‎$\alpha = 0.05$‎ در نظر گرفته شده است.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در شکل ‎\ref{fig:part2-6MedianOfScores‏}‎‎ میانه‌ی گروه‌های مختلف راهبردها در بخش‌های مختلف نمایش داده شده است. همانطور که مشخص است میانه‌ی گروه راهبرد ۲ در تمامی بخش‌ها بیشتر از دو گروه راهبرد دیگر است.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{figure}‎</p>

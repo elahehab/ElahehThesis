@@ -47,6 +47,7 @@
 (indexentry :tkey (("ANOVA" "\\glossentry{la-آنالیز واریانس}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("Kruskal-Wallis" "\\glossentry{la-کروسکال-والیس}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("Wilcoxon" "\\glossentry{la-ویلکاکسون}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("Kolmogorov–Smirnov" "\\glossentry{la-کولموگروف-اسمیرنف}") ) :locref "{}{26}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("online" "\\glossentry{la-برخط}") ) :locref "{}{29}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("daw two step task" "\\glossentry{la-آزمون دو مرحله‌ای دا}") ) :locref "{}{32}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("random walk" "\\glossentry{la-قدم زدن تصادفی}") ) :locref "{}{32}" :attr "pageglsnumberformat" ) 
