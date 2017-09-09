@@ -42,7 +42,8 @@
 
 \usepackage{algorithm}
 \usepackage{algorithmic}
-\usepackage[xindy]{glossaries}
+%\usepackage[xindy]{glossaries}
+\usepackage[xindy={language=persian,codepage=utf8},toc,acronym]{glossaries}
 
 \usepackage{zref-abspage}
 \usepackage{perpage}
@@ -1002,7 +1003,7 @@ strategyUsePercent = \frac{\sum_{i=3}^{lastPart} useScore(i)}{lastPart*5}
 \renewcommand{\arraystretch}{2}
 \begin{tabular}{|c|c|c|}
 \hline
-\textbf{آزمایش}& \textbf{مقدار \ltr{p-value} دور اول بازی} & \textbf{مقدار \ltr{p-value} دور دوم بازی}\\ \hline
+\textbf{آزمایش}& \textbf{مقدار p-value دور اول بازی} & \textbf{مقدار  p-value دور دوم بازی}\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه اصلی\end{tabular}} &$2.20 \times 10 ^ {-6}$ & $1.47 \times 10 ^ {-5}$\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه کنترل ۱\end{tabular}} &$3.24 \times 10 ^ {-4}$  &$0.0032$\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه کنترل ۲\end{tabular}} &$1.23 \times 10 ^ {-4}$ &$0.001$\\ \hline
@@ -1169,7 +1170,7 @@ strategyUsePercent = \frac{\sum_{i=3}^{lastPart} useScore(i)}{lastPart*5}
 \renewcommand{\arraystretch}{2}
 \begin{tabular}{|c|c|c|}
 \hline
-\textbf{آزمایش}& \textbf{مقدار \ltr{p-value} دور اول بازی} & \textbf{مقدار \ltr{p-value} دور دوم بازی}\\ \hline
+\textbf{آزمایش}& \textbf{مقدار p-value دور اول بازی} & \textbf{مقدار p-value دور دوم بازی}\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه اصلی\end{tabular}} &$1.27 \times 10 ^ {-4}$ & $9.35 \times 10 ^ {-5}$\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه کنترل ۱\end{tabular}} &$1.92 \times 10 ^ {-4}$  &$2.51 \times 10 ^ {-4}$\\ \hline
 \textbf{\begin{tabular}[c]{@{}c@{}}گروه کنترل ۲\end{tabular}} &$6.48 \times 10 ^ {-4}$ &$3.53 \times 10 ^ {-4}$\\ \hline
@@ -1311,8 +1312,6 @@ strategyUsePercent = \frac{\sum_{i=3}^{lastPart} useScore(i)}{lastPart*5}
 \includegraphics[page=2,scale=0.8, center]{docs/InformationForm_V07.pdf}
 \end{center}
 
-
-
 \newpage
 \thispagestyle{empty}
 \mbox{}
@@ -1337,16 +1336,12 @@ strategyUsePercent = \frac{\sum_{i=3}^{lastPart} useScore(i)}{lastPart*5}
 
 \glossarystyle{mylistLa}
 \printglossary[type=latin]
-\addcontentsline{toc}{chapter}{واژه‌نامه انگلیسی به فارسی}
 
-\newpage
-\thispagestyle{empty}
-\mbox{}
 
 \clearpage
 \glossarystyle{mylistFa}
 \printglossary[type=persian]
-\addcontentsline{toc}{chapter}{واژه‌نامه فارسی به انگلیسی}
+
 \end{doublespace}
 \end{multicols}
 

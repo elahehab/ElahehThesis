@@ -1,0 +1,158 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\providecommand*\glsXpageXglsnumberformat[2]{\setentrycounter[#1]{page}\glsnumberformat{#2}}
+\providecommand*\glsXpageXtextrm[2]{\setentrycounter[#1]{page}\textrm{#2}}
+\providecommand*\glsXpageXtextsf[2]{\setentrycounter[#1]{page}\textsf{#2}}
+\providecommand*\glsXpageXtexttt[2]{\setentrycounter[#1]{page}\texttt{#2}}
+\providecommand*\glsXpageXtextbf[2]{\setentrycounter[#1]{page}\textbf{#2}}
+\providecommand*\glsXpageXtextmd[2]{\setentrycounter[#1]{page}\textmd{#2}}
+\providecommand*\glsXpageXtextit[2]{\setentrycounter[#1]{page}\textit{#2}}
+\providecommand*\glsXpageXtextup[2]{\setentrycounter[#1]{page}\textup{#2}}
+\providecommand*\glsXpageXtextsl[2]{\setentrycounter[#1]{page}\textsl{#2}}
+\providecommand*\glsXpageXtextsc[2]{\setentrycounter[#1]{page}\textsc{#2}}
+\providecommand*\glsXpageXemph[2]{\setentrycounter[#1]{page}\emph{#2}}
+\providecommand*\glsXpageXglshypernumber[2]{\setentrycounter[#1]{page}\glshypernumber{#2}}
+\providecommand*\glsXpageXhyperrm[2]{\setentrycounter[#1]{page}\hyperrm{#2}}
+\providecommand*\glsXpageXhypersf[2]{\setentrycounter[#1]{page}\hypersf{#2}}
+\providecommand*\glsXpageXhypertt[2]{\setentrycounter[#1]{page}\hypertt{#2}}
+\providecommand*\glsXpageXhyperbf[2]{\setentrycounter[#1]{page}\hyperbf{#2}}
+\providecommand*\glsXpageXhypermd[2]{\setentrycounter[#1]{page}\hypermd{#2}}
+\providecommand*\glsXpageXhyperit[2]{\setentrycounter[#1]{page}\hyperit{#2}}
+\providecommand*\glsXpageXhyperup[2]{\setentrycounter[#1]{page}\hyperup{#2}}
+\providecommand*\glsXpageXhypersl[2]{\setentrycounter[#1]{page}\hypersl{#2}}
+\providecommand*\glsXpageXhypersc[2]{\setentrycounter[#1]{page}\hypersc{#2}}
+\providecommand*\glsXpageXhyperemph[2]{\setentrycounter[#1]{page}\hyperemph{#2}}
+\providecommand*\glsXpageXglsignore[2]{\setentrycounter[#1]{page}\glsignore{#2}}
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax\glsresetentrylist
+\glossentry{la-توجه متناوب}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{la-آنالیز واریانس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{la-توجه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\glsgroupskip
+\glsgroupheading{C}\relax\glsresetentrylist
+\glossentry{la-توانایی‌های شناختی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{1}}}\relax\glsresetentrylist
+\glossentry{la-تمرین‌های شناختی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
+\glossentry{la-بدنه‌ی محدب}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{35}}}\relax\glsresetentrylist
+\glossentry{la-هوش متبلور}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{D}\relax\glsresetentrylist
+\glossentry{la-آزمون دو مرحله‌ای دا}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
+\glossentry{la-منحرف کننده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{19}}}\relax\glsresetentrylist
+\glossentry{la-توجه تقسیم‌شده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{4}}}\glsgroupskip
+\glsgroupheading{E}\relax\glsresetentrylist
+\glossentry{la-کارکردهای اجرایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{la-تماس چشمی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\glsgroupskip
+\glsgroupheading{F}\relax\glsresetentrylist
+\glossentry{la-هوش سیال}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{G}\relax\glsresetentrylist
+\glossentry{la-گروه کردن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\glsgroupskip
+\glsgroupheading{H}\relax\glsresetentrylist
+\glossentry{la-هیستوگرام}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{I}\relax\glsresetentrylist
+\glossentry{la-دمای معکوس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\glsgroupskip
+\glsgroupheading{K}\relax\glsresetentrylist
+\glossentry{la-کولموگروف-اسمیرنف}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\relax\glsresetentrylist
+\glossentry{la-کروسکال-والیس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\glsgroupskip
+\glsgroupheading{M}\relax\glsresetentrylist
+\glossentry{la-یادگیری ماشین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
+\glossentry{la-تیم مغزینه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{la-حافظه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{la-انگیزه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{la-مهارت‌های حرکتی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{la-ردیابی همزمان چندین شیء}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{la-انجام چند کار همزمان}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{N}\relax\glsresetentrylist
+\glossentry{la-نمودار احتمال نرمال بودن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{O}\relax\glsresetentrylist
+\glossentry{la-برخط}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{29}}}\glsgroupskip
+\glsgroupheading{P}\relax\glsresetentrylist
+\glossentry{la-توضیح دادن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{la-درک مطلب شنیداری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{11}}}\relax\glsresetentrylist
+\glossentry{la-پیرسون}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
+\glossentry{la-ادراک}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{la-مقاومت در برابر چالش}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{la-پسین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{57}}}\relax\glsresetentrylist
+\glossentry{la-پیشین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{57}}}\relax\glsresetentrylist
+\glossentry{la-حل مساله}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\glsgroupskip
+\glsgroupheading{R}\relax\glsresetentrylist
+\glossentry{la-قدم زدن تصادفی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
+\glossentry{la-تکرار کردن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{la-یادگیری تقویتی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}\glsgroupskip
+\glsgroupheading{S}\relax\glsresetentrylist
+\glossentry{la-حرکات چشم}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
+\glossentry{la-نمودار نقطه‌ای}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{41}}}\relax\glsresetentrylist
+\glossentry{la-توجه انتخابی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{la-گفتگو با خود}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{la-برقرار کردن ارتباط معنایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{la-تجسم فضایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{la-راهبرد}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{la-آموزش راهبرد}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{la-شرکت‌کننده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{24}}}\relax\glsresetentrylist
+\glossentry{la-توجه پایدار}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\glsgroupskip
+\glsgroupheading{T}\relax\glsresetentrylist
+\glossentry{la-انتقال}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{V}\relax\glsresetentrylist
+\glossentry{la-حافظه‌ی کاری کلامی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{11}}}\glsgroupskip
+\glsgroupheading{W}\relax\glsresetentrylist
+\glossentry{la-ویلکاکسون}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}\delimN 
+\glsXpageXglsnumberformat{}{45}}}\relax\glsresetentrylist
+\glossentry{la-حافظه‌ی کاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{la-ظرفیت حافظه‌ی کاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}%
+\end{theglossary}\glossarypostamble

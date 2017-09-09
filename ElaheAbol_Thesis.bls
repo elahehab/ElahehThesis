@@ -1,0 +1,159 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\providecommand*\glsXpageXglsnumberformat[2]{\setentrycounter[#1]{page}\glsnumberformat{#2}}
+\providecommand*\glsXpageXtextrm[2]{\setentrycounter[#1]{page}\textrm{#2}}
+\providecommand*\glsXpageXtextsf[2]{\setentrycounter[#1]{page}\textsf{#2}}
+\providecommand*\glsXpageXtexttt[2]{\setentrycounter[#1]{page}\texttt{#2}}
+\providecommand*\glsXpageXtextbf[2]{\setentrycounter[#1]{page}\textbf{#2}}
+\providecommand*\glsXpageXtextmd[2]{\setentrycounter[#1]{page}\textmd{#2}}
+\providecommand*\glsXpageXtextit[2]{\setentrycounter[#1]{page}\textit{#2}}
+\providecommand*\glsXpageXtextup[2]{\setentrycounter[#1]{page}\textup{#2}}
+\providecommand*\glsXpageXtextsl[2]{\setentrycounter[#1]{page}\textsl{#2}}
+\providecommand*\glsXpageXtextsc[2]{\setentrycounter[#1]{page}\textsc{#2}}
+\providecommand*\glsXpageXemph[2]{\setentrycounter[#1]{page}\emph{#2}}
+\providecommand*\glsXpageXglshypernumber[2]{\setentrycounter[#1]{page}\glshypernumber{#2}}
+\providecommand*\glsXpageXhyperrm[2]{\setentrycounter[#1]{page}\hyperrm{#2}}
+\providecommand*\glsXpageXhypersf[2]{\setentrycounter[#1]{page}\hypersf{#2}}
+\providecommand*\glsXpageXhypertt[2]{\setentrycounter[#1]{page}\hypertt{#2}}
+\providecommand*\glsXpageXhyperbf[2]{\setentrycounter[#1]{page}\hyperbf{#2}}
+\providecommand*\glsXpageXhypermd[2]{\setentrycounter[#1]{page}\hypermd{#2}}
+\providecommand*\glsXpageXhyperit[2]{\setentrycounter[#1]{page}\hyperit{#2}}
+\providecommand*\glsXpageXhyperup[2]{\setentrycounter[#1]{page}\hyperup{#2}}
+\providecommand*\glsXpageXhypersl[2]{\setentrycounter[#1]{page}\hypersl{#2}}
+\providecommand*\glsXpageXhypersc[2]{\setentrycounter[#1]{page}\hypersc{#2}}
+\providecommand*\glsXpageXhyperemph[2]{\setentrycounter[#1]{page}\hyperemph{#2}}
+\providecommand*\glsXpageXglsignore[2]{\setentrycounter[#1]{page}\glsignore{#2}}
+\begin{theglossary}\glossaryheader
+\glsgroupheading{ا}\relax\glsresetentrylist
+\glossentry{fa-آزمون دو مرحله‌ای دا}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
+\glossentry{fa-آموزش راهبرد}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{fa-آنالیز واریانس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{fa-ادراک}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{fa-انتقال}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{fa-انجام چند کار همزمان}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{fa-انگیزه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{ب}\relax\glsresetentrylist
+\glossentry{fa-بدنه‌ی محدب}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{35}}}\relax\glsresetentrylist
+\glossentry{fa-برخط}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{29}}}\relax\glsresetentrylist
+\glossentry{fa-برقرار کردن ارتباط معنایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\glsgroupskip
+\glsgroupheading{پ}\relax\glsresetentrylist
+\glossentry{fa-پسین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{57}}}\relax\glsresetentrylist
+\glossentry{fa-پیرسون}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
+\glossentry{fa-پیشین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{57}}}\glsgroupskip
+\glsgroupheading{ت}\relax\glsresetentrylist
+\glossentry{fa-تجسم فضایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{fa-تکرار کردن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-تماس چشمی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{fa-تمرین‌های شناختی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
+\glossentry{fa-توانایی‌های شناختی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{1}}}\relax\glsresetentrylist
+\glossentry{fa-توجه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{fa-توجه انتخابی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-توجه پایدار}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-توجه تقسیم شده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{fa-توجه تقسیم‌شده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-توجه متناوب}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-توضیح دادن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{fa-تیم مغزینه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\glsgroupskip
+\glsgroupheading{ح}\relax\glsresetentrylist
+\glossentry{fa-حافظه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{fa-حافظه‌ی کاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{fa-حافظه‌ی کاری کلامی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{11}}}\relax\glsresetentrylist
+\glossentry{fa-حرکات چشم}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
+\glossentry{fa-حل مساله}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\glsgroupskip
+\glsgroupheading{د}\relax\glsresetentrylist
+\glossentry{fa-درک مطلب شنیداری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{11}}}\relax\glsresetentrylist
+\glossentry{fa-دمای معکوس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\glsgroupskip
+\glsgroupheading{ر}\relax\glsresetentrylist
+\glossentry{fa-راهبرد}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-ردیابی همزمان چندین شیء}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{18}}}\glsgroupskip
+\glsgroupheading{ش}\relax\glsresetentrylist
+\glossentry{fa-شرکت‌کننده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{24}}}\glsgroupskip
+\glsgroupheading{ظ}\relax\glsresetentrylist
+\glossentry{fa-ظرفیت حافظه‌ی کاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{ق}\relax\glsresetentrylist
+\glossentry{fa-قدم زدن تصادفی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{32}}}\glsgroupskip
+\glsgroupheading{ک}\relax\glsresetentrylist
+\glossentry{fa-کارکردهای اجرایی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{fa-کروسکال-والیس}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\relax\glsresetentrylist
+\glossentry{fa-کولموگروف-اسمیرنف}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\glsgroupskip
+\glsgroupheading{گ}\relax\glsresetentrylist
+\glossentry{fa-گروه کردن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glossentry{fa-گفتگو با خود}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}}}\glsgroupskip
+\glsgroupheading{م}\relax\glsresetentrylist
+\glossentry{fa-مقاومت در برابر چالش}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{fa-منحرف کننده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glossentry{fa-منحرف‌کننده}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{19}}}\relax\glsresetentrylist
+\glossentry{fa-مهارت‌های حرکتی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\glsgroupskip
+\glsgroupheading{ن}\relax\glsresetentrylist
+\glossentry{fa-نمودار احتمال نرمال بودن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-نمودار نقطه‌ای}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{41}}}\glsgroupskip
+\glsgroupheading{و}\relax\glsresetentrylist
+\glossentry{fa-ویلکاکسون}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}\delimN 
+\glsXpageXglsnumberformat{}{45}}}\glsgroupskip
+\glsgroupheading{ه}\relax\glsresetentrylist
+\glossentry{fa-هوش سیال}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{fa-هوش متبلور}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{fa-هیستوگرام}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ی}\relax\glsresetentrylist
+\glossentry{fa-یادگیری تقویتی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
+\glossentry{fa-یادگیری ماشین}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{13}}}%
+\end{theglossary}\glossarypostamble
