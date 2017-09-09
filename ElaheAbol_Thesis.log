@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  10 SEP 2017 01:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.6.18)  10 SEP 2017 01:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1788,22 +1788,12 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
 (Font)              scaled to size 13.43994pt on input line 200.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
 (Font)              scaled to size 13.43994pt on input line 212.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/sl' in size <10.95> not avai
-lable
-(Font)              Font shape `TU/XBNiloofar(0)/m/it' tried instead on input l
-ine 233.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/it' will be
-(Font)              scaled to size 12.26393pt on input line 233.
-
-[4] [5]
+ [3] [4]
 File: Figures/ut.png Graphic file (type QTm)
- <use  "Figures/ut.png" >
+
+<use  "Figures/ut.png" >
 File: Figures/eng.png Graphic file (type QTm)
- <use  "Figures/eng.png" > [6] [7] [8] [9]
+ <use  "Figures/eng.png" > [5] [6] [7] [8]
 File: docs/taghdir.pdf Graphic file (type QTm)
 
 <use  "docs/taghdir.pdf" >
@@ -1815,7 +1805,7 @@ Overfull \hbox (30.44884pt too wide) in paragraph at lines 308--310
 Overfull \vbox (144.75528pt too high) has occurred while \output is active []
 
 
-[10] [11]
+[9] [10]
 LaTeX Font Info:    Font shape `TU/IranNastaliq(1)/m/n' will be
 (Font)              scaled to size 14.23502pt on input line 319.
 LaTeX Font Info:    Font shape `TU/IranNastaliq(1)/m/n' will be
@@ -1824,8 +1814,10 @@ LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 320.
 LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 323.
- [12] [13]
+ [11] [12]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/bx/n' will be
+(Font)              scaled to size 12.26393pt on input line 356.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/it' will be
 (Font)              scaled to size 12.26393pt on input line 356.
  [1]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
@@ -2344,15 +2336,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1423.
 (./ElaheAbol_Thesis.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1423.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1423.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1423.
  ) 
 Here is how much of TeX's memory you used:
- 33132 strings out of 493005
- 631853 string characters out of 6137956
+ 33130 strings out of 493005
+ 631807 string characters out of 6137956
  795448 words of memory out of 5000000
- 36442 multiletter control sequences out of 15000+600000
+ 36441 multiletter control sequences out of 15000+600000
  17690 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  45i,21n,77p,10415b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ElaheAbol_Thesis.pdf (108 pages).
+Output written on ElaheAbol_Thesis.pdf (107 pages).
